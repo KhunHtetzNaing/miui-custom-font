@@ -8,7 +8,7 @@
 <div id="content"></div>
 <script>
 
-$.getJSON( "data/cool.json", function( data ) {
+$.getJSON( "data/cool.json", function( response ) {
   for (i = 0; i < response.items.length; i++) {
     var titleHtml = '<div id="post' + (i + 1) + '" class="post"><p>' + response.items[i] + '</p></div>';
     $('#content').append(titleHtml);
