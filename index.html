@@ -9,10 +9,7 @@
 <script>
 
 $.getJSON( "data/cool.json", function( response ) {
-  for (i = 0; i < response.length; i++) {
-    var titleHtml = '<div id="post' + (i + 1) + '" class="post"><p>' + response.items[i] + '</p></div>';
-    $('#content').append(titleHtml);
-  }
+    $('#content').append(response);
 });
 
 </script>
