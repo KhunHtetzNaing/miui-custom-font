@@ -1,20 +1,73 @@
 [
   {
     "title": "Devroye Unicode",
-    "thumbnail": "https://3.bp.blogspot.com/-RI_rtq3AeUs/W04I-fmvj7I/AAAAAAAAceI/a8bLWBAKERgZdxqxnMU70PFtVxzUBx8TQCLcBGAs/s1600/Devroye%2BUnicode.png",
     "size": "242 KB",
-    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Devroye.Unicode.ttf"
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Devroye.Unicode.ttf",
+    "thumbnail": "https://3.bp.blogspot.com/-RI_rtq3AeUs/W04I-fmvj7I/AAAAAAAAceI/a8bLWBAKERgZdxqxnMU70PFtVxzUBx8TQCLcBGAs/s1600/Devroye%2BUnicode.png"
   },
   {
     "title": "Comic Relief",
-    "thumbnail": "https://4.bp.blogspot.com/-_CmkarrtbkI/W04I-Fo-TXI/AAAAAAAAceA/04hGZDLpfW8AsBpklVZGQ-0rNgylWhmrgCLcBGAs/s1600/Comic%2BRelief.png",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Comic.Relief.ttf",
     "size": "61 KB",
-    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Comic.Relief.ttf"
+    "thumbnail": "https://4.bp.blogspot.com/-_CmkarrtbkI/W04I-Fo-TXI/AAAAAAAAceA/04hGZDLpfW8AsBpklVZGQ-0rNgylWhmrgCLcBGAs/s1600/Comic%2BRelief.png"
   },
   {
     "title": "Amerika",
-    "thumbnail": "https://1.bp.blogspot.com/-o3Y8TqqkuMg/W04I-cCg2MI/AAAAAAAAceE/dVgwJtLX8N0pDMMyysvMH59x1gCNVSNxwCLcBGAs/s1600/Amerika.png",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Amerika.ttf",
     "size": "98 KB",
-    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Amerika.ttf"
+    "thumbnail": "https://1.bp.blogspot.com/-o3Y8TqqkuMg/W04I-cCg2MI/AAAAAAAAceE/dVgwJtLX8N0pDMMyysvMH59x1gCNVSNxwCLcBGAs/s1600/Amerika.png"
+  },
+  {
+    "title": "GrandHotel-Regular",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/GrandHotel-Regular.ttf",
+    "size": "66 KB",
+    "thumbnail": "https://i.imgur.com/0AgpfV6.png"
+  },
+  {
+    "title": "Jetter",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Jetter.ttf",
+    "size": "74 KB",
+    "thumbnail": "https://i.imgur.com/wmAgyoa.png"
+  },
+  {
+    "title": "Rosewood",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Rosewood.ttf",
+    "size": "43 KB"
+  },
+  {
+    "title": "Sail",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Sail.ttf",
+    "size": "28 KB",
+    "thumbnail": "https://i.imgur.com/8FelbOY.png"
+  },
+  {
+    "title": "ShortStack",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/ShortStack.ttf",
+    "size": "46 KB",
+    "thumbnail": "https://i.imgur.com/NIUDgAm.png"
+  },
+  {
+    "title": "Skate Sonic",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Skate Sonic.ttf",
+    "size": "65 KB",
+    "thumbnail": "https://i.imgur.com/9jWJunG.png"
+  },
+  {
+    "title": "Sweetie",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Sweetie.ttf",
+    "size": "274 KB",
+    "thumbnail": "https://i.imgur.com/PbGxH2x.png"
+  },
+  {
+    "title": "Trade Winds",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Trade Winds.ttf",
+    "size": "82 KB",
+    "thumbnail": "https://i.imgur.com/N02JTXn.png"
+  },
+  {
+    "title": "Yellowtail",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/Cool/Yellowtail.ttf",
+    "size": "65 KB",
+    "thumbnail": "https://i.imgur.com/lAk2bHp.png"
   }
 ]
