@@ -1,5 +1,76 @@
 [
   {
+
+    "title": "MasterPan",
+
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/MasterPan.ttf",
+
+    "size": "162 KB",
+
+    "thumbnail": "https://i.imgur.com/Dpmxveu.png"
+
+  },
+
+  {
+
+    "title": "Best_Wishes",
+
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Best_Wishes.ttf",
+
+    "size": "65 KB",
+
+    "thumbnail": "https://i.imgur.com/8u2bd5v.png"
+
+  },
+
+  {
+
+    "title": "Growing",
+
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Growing.ttf",
+
+    "size": "25 KB",
+
+    "thumbnail": "https://i.imgur.com/ypmos9i.png"
+
+  },
+
+  {
+
+    "title": "Santa",
+
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Santa.ttf",
+
+    "size": "331 KB",
+
+    "thumbnail": "https://i.imgur.com/LhVLBwu.png"
+
+  },
+
+  {
+
+    "title": "Skywalker",
+
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Skywalker.ttf",
+
+    "size": "33 KB",
+
+    "thumbnail": "https://i.imgur.com/f2tGH5P.png"
+
+  },
+
+  {
+
+    "title": "VICTORIA",
+
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/VICTORIA.ttf",
+
+    "size": "35 KB",
+
+    "thumbnail": "https://i.imgur.com/PW1vUBb.png"
+
+  },
+  {
     "title": "Devroye Unicode",
     "size": "242 KB",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Devroye.Unicode.ttf",
@@ -70,76 +141,5 @@
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Yellowtail.ttf",
     "size": "65 KB",
     "thumbnail": "https://i.imgur.com/lAk2bHp.png"
-  },
-  {
-
-    "title": "MasterPan",
-
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/MasterPan.ttf",
-
-    "size": "162 KB",
-
-    "thumbnail": "https://i.imgur.com/Dpmxveu.png"
-
-  },
-
-  {
-
-    "title": "Best_Wishes",
-
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Best_Wishes.ttf",
-
-    "size": "65 KB",
-
-    "thumbnail": "https://i.imgur.com/8u2bd5v.png"
-
-  },
-
-  {
-
-    "title": "Growing",
-
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Growing.ttf",
-
-    "size": "25 KB",
-
-    "thumbnail": "https://i.imgur.com/ypmos9i.png"
-
-  },
-
-  {
-
-    "title": "Santa",
-
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Santa.ttf",
-
-    "size": "331 KB",
-
-    "thumbnail": "https://i.imgur.com/LhVLBwu.png"
-
-  },
-
-  {
-
-    "title": "Skywalker",
-
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Skywalker.ttf",
-
-    "size": "33 KB",
-
-    "thumbnail": "https://i.imgur.com/f2tGH5P.png"
-
-  },
-
-  {
-
-    "title": "VICTORIA",
-
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/VICTORIA.ttf",
-
-    "size": "35 KB",
-
-    "thumbnail": "https://i.imgur.com/PW1vUBb.png"
-
   }
 ]
