@@ -1,0 +1,42 @@
+[
+  {
+    "title": "PaOhZawgyi",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Zawgyi/PaOhZawgyi.ttf",
+    "size": "114 KB",
+    "thumbnail": "https://i.imgur.com/kkOH4W7.png"
+  },
+  {
+    "title": "Jojar",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Zawgyi/Jojar.ttf",
+    "size": "140 KB",
+    "thumbnail": "https://i.imgur.com/JDelIOX.png"
+  },
+  {
+    "title": "PaohDragonApp",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/PaohDragonApp.ttf",
+    "size": "87 KB",
+    "thumbnail": "https://i.imgur.com/qhg8zDc.png",
+    "unicode": true
+  },
+  {
+    "title": "MyanmarPaOh",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/MyanmarPaOh.ttf",
+    "size": "229 KB",
+    "thumbnail": "https://i.imgur.com/XoENPPG.png",
+    "unicode": true
+  },
+  {
+    "title": "Cherry",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Cherry.ttf",
+    "size": "149 KB",
+    "thumbnail": "https://i.imgur.com/urpzdgC.png",
+    "unicode": true
+  },
+  {
+    "unicode": true,
+    "title": "Myanmar3PaOh",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Myanmar3PaOh.ttf",
+    "size": "99 KB",
+    "thumbnail": "https://i.imgur.com/8HGC7Eb.png"
+  }
+]
