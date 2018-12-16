@@ -1,5 +1,11 @@
 [
   {
+    "title": "iOS12",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Emoji/iOS12.ttf",
+    "size": "17.1 MB",
+    "thumbnail": "https://i.imgur.com/0n0KZgn.png"
+  },
+  {
     "title": "iOS 11",
     "size": "22.08 MB",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Emoji/iOS11Emoji.ttf",
@@ -35,12 +41,6 @@
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Emoji/Android L.ttf",
     "size": "4.88 MB",
     "thumbnail": "https://i.imgur.com/qDJaeYq.png"
-  },
-  {
-    "title": "iOS12",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Emoji/iOS12.ttf",
-    "size": "17.1 MB",
-    "thumbnail": "https://i.imgur.com/0n0KZgn.png"
   },
   {
     "title": "HTC Sense",
