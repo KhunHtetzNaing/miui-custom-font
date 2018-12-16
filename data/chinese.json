@@ -2,16 +2,19 @@
   {
     "title": "爱心娃娃",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/AiXiWaWa.ttf",
-    "size": "10.8 MB"
+    "size": "10.8 MB",
+    "thumbnail":"https://i.imgur.com/93ufv5a.png"
   },
   {
     "title": "爱心小兔",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/AiXiaoTu.ttf",
-    "size": "16.1 MB"
+    "size": "16.1 MB",
+    "thumbnail":"https://i.imgur.com/CgTqI9z.png"
   },
   {
     "title": "阿沫幸福四叶草",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HappyClover.ttf",
-    "size": "8.82 MB"
+    "size": "8.82 MB",
+    "thumbnail":"https://i.imgur.com/J5M4m9u.png"
   }
 ]
