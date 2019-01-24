@@ -1,8 +1,8 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "title": "IMPORTANT!",
   "message": "New version has been release!\nPlease download and install :)",
-  "download": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/App/miCustomFontInstaller_1.4.apk",
+  "download": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/App/miCustomFontInstaller_1.5.apk",
   "playstore": "com.pky.mifontinstaller",
   "uninstall": false
 }
