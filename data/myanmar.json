@@ -6,26 +6,26 @@
     "thumbnail": "https://i.imgur.com/9CDerSN.png"
   },
   {
-    "title": "YoeyarZawgyi",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Zawgyi/YoeyarZawgyi.ttf",
+    "title": "YoeyarZawgyi",
     "size": "375 KB",
     "thumbnail": "https://i.imgur.com/v28LorS.png"
   },
   {
-    "title": "Tansaungmone",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Zawgyi/Tansaungmone.ttf",
+    "title": "Tansaungmone",
     "size": "59 KB",
     "thumbnail": "https://i.imgur.com/DCDneNN.png"
   },
   {
-    "title": "PaOhZawgyi",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Zawgyi/PaOhZawgyi.ttf",
+    "title": "PaOhZawgyi",
     "size": "114 KB",
     "thumbnail": "https://i.imgur.com/kkOH4W7.png"
   },
   {
-    "title": "HtinShu",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Zawgyi/HtinShu.ttf",
+    "title": "HtinShu",
     "size": "73 KB",
     "thumbnail": "https://i.imgur.com/u0s2iAt.png"
   },
@@ -202,6 +202,90 @@
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Zawgyi/SagarZawgyi.ttf",
     "size": "55 KB",
     "thumbnail": "https://i.imgur.com/M9ILhTm.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu Book-1.7_Bold.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu Book-1.7_Bold",
+    "size": "166 KB",
+    "thumbnail": "https://i.imgur.com/vtDN2SE.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu Book-1.7_Regular.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu Book-1.7_Regular",
+    "size": "166 KB",
+    "thumbnail": "https://i.imgur.com/oiKOnMv.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-1.8_Bold.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu-1.8_Bold",
+    "size": "186 KB",
+    "thumbnail": "https://i.imgur.com/4nByVLU.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-1.8_Regular.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu-1.8_Regular",
+    "size": "184 KB",
+    "thumbnail": "https://i.imgur.com/4zcGvW0.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-2.5_Bold.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu-2.5_Bold",
+    "size": "179 KB",
+    "thumbnail": "https://i.imgur.com/qdPB1nF.png"
+  },
+  {
+    "unicode": true,
+    "title": "Pyidaungsu-2.5_Regular",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-2.5_Regular.ttf",
+    "size": "178 KB",
+    "thumbnail": "https://i.imgur.com/Mdo3HUk.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu Book-1.7_Bold.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu Book-1.7_Bold",
+    "size": "166 KB",
+    "thumbnail": "https://i.imgur.com/vtDN2SE.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu Book-1.7_Regular.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu Book-1.7_Regular",
+    "size": "166 KB",
+    "thumbnail": "https://i.imgur.com/oiKOnMv.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-1.8_Bold.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu-1.8_Bold",
+    "size": "186 KB",
+    "thumbnail": "https://i.imgur.com/4nByVLU.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-1.8_Regular.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu-1.8_Regular",
+    "size": "184 KB",
+    "thumbnail": "https://i.imgur.com/4zcGvW0.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-2.5_Bold.ttf",
+    "unicode": true,
+    "title": "Pyidaungsu-2.5_Bold",
+    "size": "179 KB",
+    "thumbnail": "https://i.imgur.com/qdPB1nF.png"
+  },
+  {
+    "unicode": true,
+    "title": "Pyidaungsu-2.5_Regular",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-2.5_Regular.ttf",
+    "size": "178 KB",
+    "thumbnail": "https://i.imgur.com/Mdo3HUk.png"
   },
   {
     "title": "PadaukKyaungchikote",
