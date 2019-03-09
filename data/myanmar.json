@@ -204,14 +204,21 @@
     "thumbnail": "https://i.imgur.com/M9ILhTm.png"
   },
   {
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu Book-1.7_Bold.ttf",
+    "title": "NamTeng_2017",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamTeng_2017.ttf",
+    "size": "533 KB",
+    "thumbnail": "https://i.imgur.com/N2k4w5D.png",
+    "unicode": true
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu_Book-1.7_Bold.ttf",
     "unicode": true,
     "title": "Pyidaungsu_Book-1.7_Bold",
     "size": "166 KB",
     "thumbnail": "https://i.imgur.com/vtDN2SE.png"
   },
   {
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu Book-1.7_Regular.ttf",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu_Book-1.7_Regular.ttf",
     "unicode": true,
     "title": "Pyidaungsu_Book-1.7_Regular",
     "size": "166 KB",
