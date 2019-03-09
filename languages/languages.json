@@ -22,5 +22,9 @@
   {
     "title": "Thai",
     "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/thai.json"
+  },
+  {
+    "title": "Vietnamese",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/vietnamese.json"
   }
 ]
