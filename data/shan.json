@@ -1,5 +1,47 @@
 [
   {
+    "unicode": true,
+    "title": "GHKMuse",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Shan/Unicode/GHKMuse.ttf",
+    "size": "295 KB",
+    "thumbnail": "https://i.imgur.com/C6MxVmO.png"
+  },
+  {
+    "unicode": true,
+    "title": "GHKTachileik",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Shan/Unicode/GHKTachileik.ttf",
+    "size": "266 KB",
+    "thumbnail": "https://i.imgur.com/FddBo5E.png"
+  },
+  {
+    "unicode": true,
+    "title": "GHKTaunggyi",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Shan/Unicode/GHKTaunggyi.ttf",
+    "size": "260 KB",
+    "thumbnail": "https://i.imgur.com/h03MDQi.png"
+  },
+  {
+    "unicode": true,
+    "title": "GreatHorKham-MuSe",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Shan/Unicode/GreatHorKham-MuSe.ttf",
+    "size": "297 KB",
+    "thumbnail": "https://i.imgur.com/k5K4637.png"
+  },
+  {
+    "unicode": true,
+    "title": "GHKKengtung",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Shan/Unicode/GHKKengtung.ttf",
+    "size": "265 KB",
+    "thumbnail": "https://i.imgur.com/WBvWGdy.png"
+  },
+  {
+    "unicode": true,
+    "title": "GreatHorKham-Yangon",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Shan/Unicode/GreatHorKham-Yangon.ttf",
+    "size": "254 KB",
+    "thumbnail": "https://i.imgur.com/QMB5Q6y.png"
+  },
+  {
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamTeng_2017.ttf",
     "title": "NamTeng_2017",
     "size": "533 KB",
