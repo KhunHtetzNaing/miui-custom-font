@@ -1,74 +1,99 @@
 [
   {
-
+    "title": "Animals",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Animals.ttf",
+    "size": "253 KB",
+    "thumbnail": "https://i.imgur.com/8jC0Kb7.png"
+  },
+  {
+    "title": "Carol",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Carol.ttf",
+    "size": "41 KB",
+    "thumbnail": "https://i.imgur.com/7rT0RdX.png"
+  },
+  {
+    "title": "Halloween",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Halloween.ttf",
+    "size": "43 KB",
+    "thumbnail": "https://i.imgur.com/lYnvBRU.png"
+  },
+  {
+    "title": "Lacrimosa",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Lacrimosa.ttf",
+    "size": "21 KB",
+    "thumbnail": "https://i.imgur.com/ezIVMyE.png"
+  },
+  {
+    "title": "Marshmallow",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Marshmallow.ttf",
+    "size": "63 KB",
+    "thumbnail": "https://i.imgur.com/YbphoG9.png"
+  },
+  {
+    "title": "Musical",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Musical.ttf",
+    "size": "54 KB",
+    "thumbnail": "https://i.imgur.com/F8lnsZJ.png"
+  },
+  {
+    "title": "Peace",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Peace.ttf",
+    "size": "48 KB",
+    "thumbnail": "https://i.imgur.com/X0EntJ2.png"
+  },
+  {
+    "title": "Singing",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Singing.ttf",
+    "size": "59 KB",
+    "thumbnail": "https://i.imgur.com/rZq6zJE.png"
+  },
+  {
+    "title": "Speed",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Speed.ttf",
+    "size": "26 KB",
+    "thumbnail": "https://i.imgur.com/cxsONza.png"
+  },
+  {
+    "title": "Turkey",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Turkey.ttf",
+    "size": "243 KB",
+    "thumbnail": "https://i.imgur.com/IzD9E9m.png"
+  },
+  {
     "title": "MasterPan",
-
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/MasterPan.ttf",
-
     "size": "162 KB",
-
     "thumbnail": "https://i.imgur.com/Dpmxveu.png"
-
   },
-
   {
-
     "title": "Best_Wishes",
-
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Best_Wishes.ttf",
-
     "size": "65 KB",
-
     "thumbnail": "https://i.imgur.com/8u2bd5v.png"
-
   },
-
   {
-
     "title": "Growing",
-
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Growing.ttf",
-
     "size": "25 KB",
-
     "thumbnail": "https://i.imgur.com/ypmos9i.png"
-
   },
-
   {
-
     "title": "Santa",
-
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Santa.ttf",
-
     "size": "331 KB",
-
     "thumbnail": "https://i.imgur.com/LhVLBwu.png"
-
   },
-
   {
-
     "title": "Skywalker",
-
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Skywalker.ttf",
-
     "size": "33 KB",
-
     "thumbnail": "https://i.imgur.com/f2tGH5P.png"
-
   },
-
   {
-
     "title": "VICTORIA",
-
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/VICTORIA.ttf",
-
     "size": "35 KB",
-
     "thumbnail": "https://i.imgur.com/PW1vUBb.png"
-
   },
   {
     "title": "Devroye Unicode",
@@ -104,7 +129,7 @@
     "title": "Rosewood",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/Rosewood.ttf",
     "size": "43 KB",
-    "thumbnail":"http://i.imgur.com/Ib3370Q.png"
+    "thumbnail": "http://i.imgur.com/Ib3370Q.png"
   },
   {
     "title": "Sail",
