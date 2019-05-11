@@ -1,140 +1,386 @@
 [
-    {
-      "title": "SR-FahJon-NP",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/SR-FahJon-NP.ttf",
-      "size": "98 KB",
-      "thumbnail": "https://i.imgur.com/Hrcz87X.png"
-    },
-    {
-      "title": "Kinnari-Bold",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Kinnari-Bold.ttf",
-      "size": "67 KB",
-      "thumbnail": "https://i.imgur.com/vwkmSLF.png"
-    },
-    {
-      "title": "Norasi-Bold",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Norasi-Bold.ttf",
-      "size": "99 KB",
-      "thumbnail": "https://i.imgur.com/MN2sztB.png"
-    },
-    {
-      "title": "MAX-somsin",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/MAX-somsin.ttf",
-      "size": "567 KB",
-      "thumbnail": "https://i.imgur.com/wrbbuKg.png"
-    },
-    {
-      "title": "BLK-BangLi-Ko-Sa-Na",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/BLK-BangLi-Ko-Sa-Na.ttf",
-      "size": "180 KB",
-      "thumbnail": "https://i.imgur.com/8ksoxJZ.png"
-    },
-    {
-      "title": "Kinnari",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Kinnari.ttf",
-      "size": "67 KB",
-      "thumbnail": "https://i.imgur.com/ZzEVZmP.png"
-    },
-    {
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Garuda.ttf",
-      "title": "Garuda",
-      "size": "73 KB",
-      "thumbnail": "https://i.imgur.com/SF0xkaL.png"
-    },
-    {
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Book_Akhanake.ttf",
-      "title": "Book_Akhanake",
-      "size": "110 KB",
-      "thumbnail": "https://i.imgur.com/XSa2u6b.png"
-    },
-    {
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Circular.ttf",
-      "title": "Circular",
-      "size": "84 KB",
-      "thumbnail": "https://i.imgur.com/dyNpi5K.png"
-    },
-    {
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/rtE-Porama-Regular.ttf",
-      "title": "rtE-Porama-Regular",
-      "size": "75 KB",
-      "thumbnail": "https://i.imgur.com/FP8wEaC.png"
-    },
-    {
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/EDSense.ttf",
-      "title": "EDSense",
-      "size": "97 KB",
-      "thumbnail": "https://i.imgur.com/fjHiJvS.png"
-    },
-    {
-      "title": "RaiNgan",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/RaiNgan.ttf",
-      "size": "113 KB",
-      "thumbnail": "https://i.imgur.com/mCsUc4Q.png"
-    },
-    {
-      "title": "KRR_AengAei",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/KRR_AengAei.ttf",
-      "size": "103 KB",
-      "thumbnail": "https://i.imgur.com/suoLZEw.png"
-    },
-    {
-      "title": "WDB_Bangna",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/WDB_Bangna.ttf",
-      "size": "75 KB",
-      "thumbnail": "https://i.imgur.com/UgyICT8.png"
-    },
-    {
-      "title": "BLK-Suphanburi",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/BLK-Suphanburi.ttf",
-      "size": "169 KB",
-      "thumbnail": "https://i.imgur.com/J6hAfhk.png"
-    },
-    {
-      "title": "LomaBold",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/LomaBold.ttf",
-      "size": "43 KB",
-      "thumbnail": "https://i.imgur.com/PBA4UH6.png"
-    },
-    {
-      "title": "Garuda-Bold",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Garuda-Bold.ttf",
-      "size": "74 KB",
-      "thumbnail": "https://i.imgur.com/tmmMpjo.png"
-    },
-    {
-      "title": "Book_SabuyDee",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Book_SabuyDee.ttf",
-      "size": "120 KB",
-      "thumbnail": "https://i.imgur.com/SltP9Dm.png"
-    },
-    {
-      "title": "universe",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/universe.ttf",
-      "size": "348 KB",
-      "thumbnail": "https://i.imgur.com/QZTbR2I.png"
-    },
-    {
-      "title": "Norasi",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Norasi.ttf",
-      "size": "101 KB",
-      "thumbnail": "https://i.imgur.com/Za9zklI.png"
-    },
-    {
-      "title": "torsilp-wadkhen",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/torsilp-wadkhen.ttf",
-      "size": "109 KB",
-      "thumbnail": "https://i.imgur.com/M8jCFin.png"
-    },
-    {
-      "title": "Loma",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Loma.ttf",
-      "size": "68 KB",
-      "thumbnail": "https://i.imgur.com/uatA49J.png"
-    },
-    {
-      "title": "EDPenSook",
-      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/EDPenSook.ttf",
-      "size": "98 KB",
-      "thumbnail": "https://i.imgur.com/Q9LQ0lj.png"
-    }
-  ]
+  {
+    "title": "สับปะรด",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/สับปะรด.ttf",
+    "size": "158 KB",
+    "thumbnail": "https://i.imgur.com/TbK7Sdq.png"
+  },
+  {
+    "title": "TH-Chakra-Petch-Bold",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/TH-Chakra-Petch-Bold.ttf",
+    "size": "69 KB",
+    "thumbnail": "https://i.imgur.com/RnAoUhV.png"
+  },
+  {
+    "title": "RDCHULAJARUEK",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/RDCHULAJARUEK.ttf",
+    "size": "76 KB",
+    "thumbnail": "https://i.imgur.com/6cXbCH1.png"
+  },
+  {
+    "title": "thaisanslite_r1",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/thaisanslite_r1.ttf",
+    "size": "60 KB",
+    "thumbnail": "https://i.imgur.com/UeV32aa.png"
+  },
+  {
+    "title": "bangna-new",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/bangna-new.ttf",
+    "size": "74 KB",
+    "thumbnail": "https://i.imgur.com/E0Jg3y5.png"
+  },
+  {
+    "title": "ความเมตตา",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ความเมตตา.ttf",
+    "size": "68 KB",
+    "thumbnail": "https://i.imgur.com/JcZxQWZ.png"
+  },
+  {
+    "title": "ฉันรักคุณ",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ฉันรักคุณ.ttf",
+    "size": "73 KB",
+    "thumbnail": "https://i.imgur.com/ZpIUAFr.png"
+  },
+  {
+    "title": "ความรักเป็นสิ่งที่สวยงาม",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ความรักเป็นสิ่งที่สวยงาม.ttf",
+    "size": "43 KB",
+    "thumbnail": "https://i.imgur.com/OEtTCiX.png"
+  },
+  {
+    "title": "ประเพณีไทย",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ประเพณีไทย.ttf",
+    "size": "221 KB",
+    "thumbnail": "https://i.imgur.com/P8SE5eJ.png"
+  },
+  {
+    "title": "แซ่บ",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/แซ่บ.ttf",
+    "size": "67 KB",
+    "thumbnail": "https://i.imgur.com/gJejF70.png"
+  },
+  {
+    "title": "SOV_Nophamas-NECTECopenlogo",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/SOV_Nophamas-NECTECopenlogo.ttf",
+    "size": "141 KB",
+    "thumbnail": "https://i.imgur.com/PyGkVLJ.png"
+  },
+  {
+    "title": "น่าอัศจรรย์",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/น่าอัศจรรย์.ttf",
+    "size": "209 KB",
+    "thumbnail": "https://i.imgur.com/wmmXvlx.png"
+  },
+  {
+    "title": "BSRUBANSOMDEJ-Regular",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/BSRUBANSOMDEJ-Regular.ttf",
+    "size": "55 KB",
+    "thumbnail": "https://i.imgur.com/JnYd7pN.png"
+  },
+  {
+    "title": "SNTAnouvongRegularItalic",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/SNTAnouvongRegularItalic.ttf",
+    "size": "139 KB",
+    "thumbnail": "https://i.imgur.com/Ys8rOEr.png"
+  },
+  {
+    "title": "Font-Nongman",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Font-Nongman.ttf",
+    "size": "100 KB",
+    "thumbnail": "https://i.imgur.com/bYEQaa3.png"
+  },
+  {
+    "title": "TS-kaewpetBold-NP",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/TS-kaewpetBold-NP.ttf",
+    "size": "105 KB",
+    "thumbnail": "https://i.imgur.com/0EVE6TU.png"
+  },
+  {
+    "title": "Bangok",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Bangok.ttf",
+    "size": "240 KB",
+    "thumbnail": "https://i.imgur.com/twJvyZV.png"
+  },
+  {
+    "title": "Bangnampueng",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Bangnampueng.ttf",
+    "size": "103 KB",
+    "thumbnail": "https://i.imgur.com/CGUdzvG.png"
+  },
+  {
+    "title": "V.11.3_SuphanFontsTHAI",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/V.11.3_SuphanFontsTHAI.ttf",
+    "size": "101 KB",
+    "thumbnail": "https://i.imgur.com/UXSzaxh.png"
+  },
+  {
+    "title": "boonhome-400",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/boonhome-400.ttf",
+    "size": "106 KB",
+    "thumbnail": "https://i.imgur.com/YOClIWS.png"
+  },
+  {
+    "title": "SOV_ribbon2",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/SOV_ribbon2.ttf",
+    "size": "135 KB",
+    "thumbnail": "https://i.imgur.com/fnJE7Gu.png"
+  },
+  {
+    "title": "สวยไทย",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/สวยไทย.ttf",
+    "size": "146 KB",
+    "thumbnail": "https://i.imgur.com/sH4o5oh.png"
+  },
+  {
+    "title": "MAXPINJOHNV2",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/MAXPINJOHNV2.ttf",
+    "size": "107 KB",
+    "thumbnail": "https://i.imgur.com/lhKzPps.png"
+  },
+  {
+    "title": "ผู้หญิงที่น่าแปลกใจ",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ผู้หญิงที่น่าแปลกใจ.ttf",
+    "size": "97 KB",
+    "thumbnail": "https://i.imgur.com/VAwfQvr.png"
+  },
+  {
+    "title": "คุณจะรักฉันไหม",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/คุณจะรักฉันไหม.ttf",
+    "size": "143 KB",
+    "thumbnail": "https://i.imgur.com/jAA3Tra.png"
+  },
+  {
+    "title": "พลเมือง",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/พลเมือง.ttf",
+    "size": "158 KB",
+    "thumbnail": "https://i.imgur.com/gsoohtM.png"
+  },
+  {
+    "title": "CSPraKasFD",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/CSPraKasFD.ttf",
+    "size": "29 KB",
+    "thumbnail": "https://i.imgur.com/OnvEIxr.png"
+  },
+  {
+    "title": "ชีวิตของพระพุทธเจ้า",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ชีวิตของพระพุทธเจ้า.ttf",
+    "size": "166 KB",
+    "thumbnail": "https://i.imgur.com/VXXfOd3.png"
+  },
+  {
+    "title": "เฟอร์รารี",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/เฟอร์รารี.ttf",
+    "size": "189 KB",
+    "thumbnail": "https://i.imgur.com/LuI7opa.png"
+  },
+  {
+    "title": "ลูกโป่งรุ้ง",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ลูกโป่งรุ้ง.ttf",
+    "size": "73 KB",
+    "thumbnail": "https://i.imgur.com/7FmoFQ8.png"
+  },
+  {
+    "title": "ข่อยคิดฮอดเจ้า",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ข่อยคิดฮอดเจ้า.ttf",
+    "size": "312 KB",
+    "thumbnail": "https://i.imgur.com/F0dxlp6.png"
+  },
+  {
+    "title": "ออกแบบในประเทศไทย",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ออกแบบในประเทศไทย.ttf",
+    "size": "101 KB",
+    "thumbnail": "https://i.imgur.com/1AJCed8.png"
+  },
+  {
+    "title": "WPDOMINOnovel",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/WPDOMINOnovel.ttf",
+    "size": "57 KB",
+    "thumbnail": "https://i.imgur.com/zai9yEe.png"
+  },
+  {
+    "title": "KRR-THAISPIRIT",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/KRR-THAISPIRIT.ttf",
+    "size": "120 KB",
+    "thumbnail": "https://i.imgur.com/Rzc8NyY.png"
+  },
+  {
+    "title": "ทักทายกษัตริย์",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/ทักทายกษัตริย์.ttf",
+    "size": "248 KB",
+    "thumbnail": "https://i.imgur.com/g7rRN1R.png"
+  },
+  {
+    "title": "WRTishidolRegular",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/WRTishidolRegular.ttf",
+    "size": "120 KB",
+    "thumbnail": "https://i.imgur.com/tWeRdNo.png"
+  },
+  {
+    "title": "อาหารไทย",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/อาหารไทย.ttf",
+    "size": "74 KB",
+    "thumbnail": "https://i.imgur.com/bLXZF5Z.png"
+  },
+  {
+    "title": "NotoSansThaiUI-Regular",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/NotoSansThaiUI-Regular.ttf",
+    "size": "22 KB",
+    "thumbnail": "https://i.imgur.com/AJ3Fms4.png"
+  },
+  {
+    "title": "CHAWPMAI",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/CHAWPMAI.ttf",
+    "size": "22 KB",
+    "thumbnail": "https://i.imgur.com/9EprDNj.png"
+  },
+  {
+    "title": "WRTishSmile",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/WRTishSmile.ttf",
+    "size": "120 KB",
+    "thumbnail": "https://i.imgur.com/XK8ZnzE.png"
+  },
+  {
+    "title": "มีชื่อเสียง",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/มีชื่อเสียง.ttf",
+    "size": "164 KB",
+    "thumbnail": "https://i.imgur.com/zTiXhK8.png"
+  },
+  {
+    "title": "SR-FahJon-NP",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/SR-FahJon-NP.ttf",
+    "size": "98 KB",
+    "thumbnail": "https://i.imgur.com/Hrcz87X.png"
+  },
+  {
+    "title": "Kinnari-Bold",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Kinnari-Bold.ttf",
+    "size": "67 KB",
+    "thumbnail": "https://i.imgur.com/vwkmSLF.png"
+  },
+  {
+    "title": "Norasi-Bold",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Norasi-Bold.ttf",
+    "size": "99 KB",
+    "thumbnail": "https://i.imgur.com/MN2sztB.png"
+  },
+  {
+    "title": "MAX-somsin",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/MAX-somsin.ttf",
+    "size": "567 KB",
+    "thumbnail": "https://i.imgur.com/wrbbuKg.png"
+  },
+  {
+    "title": "BLK-BangLi-Ko-Sa-Na",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/BLK-BangLi-Ko-Sa-Na.ttf",
+    "size": "180 KB",
+    "thumbnail": "https://i.imgur.com/8ksoxJZ.png"
+  },
+  {
+    "title": "Kinnari",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Kinnari.ttf",
+    "size": "67 KB",
+    "thumbnail": "https://i.imgur.com/ZzEVZmP.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Garuda.ttf",
+    "title": "Garuda",
+    "size": "73 KB",
+    "thumbnail": "https://i.imgur.com/SF0xkaL.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Book_Akhanake.ttf",
+    "title": "Book_Akhanake",
+    "size": "110 KB",
+    "thumbnail": "https://i.imgur.com/XSa2u6b.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Circular.ttf",
+    "title": "Circular",
+    "size": "84 KB",
+    "thumbnail": "https://i.imgur.com/dyNpi5K.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/rtE-Porama-Regular.ttf",
+    "title": "rtE-Porama-Regular",
+    "size": "75 KB",
+    "thumbnail": "https://i.imgur.com/FP8wEaC.png"
+  },
+  {
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/EDSense.ttf",
+    "title": "EDSense",
+    "size": "97 KB",
+    "thumbnail": "https://i.imgur.com/fjHiJvS.png"
+  },
+  {
+    "title": "RaiNgan",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/RaiNgan.ttf",
+    "size": "113 KB",
+    "thumbnail": "https://i.imgur.com/mCsUc4Q.png"
+  },
+  {
+    "title": "KRR_AengAei",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/KRR_AengAei.ttf",
+    "size": "103 KB",
+    "thumbnail": "https://i.imgur.com/suoLZEw.png"
+  },
+  {
+    "title": "WDB_Bangna",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/WDB_Bangna.ttf",
+    "size": "75 KB",
+    "thumbnail": "https://i.imgur.com/UgyICT8.png"
+  },
+  {
+    "title": "BLK-Suphanburi",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/BLK-Suphanburi.ttf",
+    "size": "169 KB",
+    "thumbnail": "https://i.imgur.com/J6hAfhk.png"
+  },
+  {
+    "title": "LomaBold",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/LomaBold.ttf",
+    "size": "43 KB",
+    "thumbnail": "https://i.imgur.com/PBA4UH6.png"
+  },
+  {
+    "title": "Garuda-Bold",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Garuda-Bold.ttf",
+    "size": "74 KB",
+    "thumbnail": "https://i.imgur.com/tmmMpjo.png"
+  },
+  {
+    "title": "Book_SabuyDee",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Book_SabuyDee.ttf",
+    "size": "120 KB",
+    "thumbnail": "https://i.imgur.com/SltP9Dm.png"
+  },
+  {
+    "title": "universe",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/universe.ttf",
+    "size": "348 KB",
+    "thumbnail": "https://i.imgur.com/QZTbR2I.png"
+  },
+  {
+    "title": "Norasi",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Norasi.ttf",
+    "size": "101 KB",
+    "thumbnail": "https://i.imgur.com/Za9zklI.png"
+  },
+  {
+    "title": "torsilp-wadkhen",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/torsilp-wadkhen.ttf",
+    "size": "109 KB",
+    "thumbnail": "https://i.imgur.com/M8jCFin.png"
+  },
+  {
+    "title": "Loma",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/Loma.ttf",
+    "size": "68 KB",
+    "thumbnail": "https://i.imgur.com/uatA49J.png"
+  },
+  {
+    "title": "EDPenSook",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Thai/EDPenSook.ttf",
+    "size": "98 KB",
+    "thumbnail": "https://i.imgur.com/Q9LQ0lj.png"
+  }
+]
