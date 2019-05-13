@@ -1,20 +1,352 @@
 [
   {
-    "title": "爱心娃娃",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/AiXiWaWa.ttf",
-    "size": "10.8 MB",
-    "thumbnail":"https://i.imgur.com/93ufv5a.png"
+    "new": true,
+    "title": "假日心情",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/假日心情.ttf",
+    "size": "12.8 MB",
+    "thumbnail": "https://i.imgur.com/GTaPiMt.png"
   },
   {
-    "title": "爱心小兔",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/AiXiaoTu.ttf",
+    "new": true,
+    "title": "MuseoiHint",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/MuseoiHint.ttf",
+    "size": "9.83 MB",
+    "thumbnail": "https://i.imgur.com/kVhcrql.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの女王范",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの女王范.ttf",
+    "size": "21.1 MB",
+    "thumbnail": "https://i.imgur.com/uYmuQNH.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの书体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの书体.ttf",
+    "size": "16.7 MB",
+    "thumbnail": "https://i.imgur.com/2YnOVey.png"
+  },
+  {
+    "new": true,
+    "title": "Kitty娃娃",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/Kitty娃娃.ttf",
+    "size": "9.19 MB",
+    "thumbnail": "https://i.imgur.com/SZrhSON.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの油性笔",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの油性笔.ttf",
+    "size": "18.4 MB",
+    "thumbnail": "https://i.imgur.com/oGA24We.png"
+  },
+  {
+    "new": true,
+    "title": "Myuppy",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/Myuppy.ttf",
+    "size": "11.9 MB",
+    "thumbnail": "https://i.imgur.com/ijSOmsl.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの雅蔓",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの雅蔓.ttf",
+    "size": "19.6 MB",
+    "thumbnail": "https://i.imgur.com/tB9olbc.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの勿忘本",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの勿忘本.ttf",
+    "size": "15.0 MB",
+    "thumbnail": "https://i.imgur.com/Q5q5Yhw.png"
+  },
+  {
+    "new": true,
+    "title": "卡通卷卷",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/卡通卷卷.ttf",
+    "size": "23.2 MB",
+    "thumbnail": "https://i.imgur.com/vQgtrGt.png"
+  },
+  {
+    "new": true,
+    "title": "七上八下",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/七上八下.ttf",
+    "size": "17.5 MB",
+    "thumbnail": "https://i.imgur.com/jMq4aSr.png"
+  },
+  {
+    "new": true,
+    "title": "SummerLove",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/SummerLove.ttf",
+    "size": "16.2 MB",
+    "thumbnail": "https://i.imgur.com/7ummtXH.png"
+  },
+  {
+    "new": true,
+    "title": "华康宝风翻新",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康宝风翻新.ttf",
+    "size": "22.1 MB",
+    "thumbnail": "https://i.imgur.com/xmUFUXv.png"
+  },
+  {
+    "new": true,
+    "title": "Kitty爱心",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/Kitty爱心.ttf",
+    "size": "15.9 MB",
+    "thumbnail": "https://i.imgur.com/MDfMLeh.png"
+  },
+  {
+    "new": true,
+    "title": "华康少女",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康少女.ttf",
+    "size": "12.9 MB",
+    "thumbnail": "https://i.imgur.com/6HdPPi7.png"
+  },
+  {
+    "new": true,
+    "title": "HkErfengFan",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HkErfengFan.ttf",
+    "size": "16.9 MB",
+    "thumbnail": "https://i.imgur.com/dewL6c2.png"
+  },
+  {
+    "new": true,
+    "title": "QingYuan",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/QingYuan.ttf",
+    "size": "17.4 MB",
+    "thumbnail": "https://i.imgur.com/wkou1jl.png"
+  },
+  {
+    "new": true,
+    "title": "Roboto",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/Roboto.ttf",
+    "size": "5.09 MB",
+    "thumbnail": "https://i.imgur.com/Be2Te4X.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの铅笔体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの铅笔体.ttf",
+    "size": "19.3 MB",
+    "thumbnail": "https://i.imgur.com/4VsamcN.png"
+  },
+  {
+    "new": true,
+    "title": "POP字体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/POP字体.ttf",
+    "size": "9.62 MB",
+    "thumbnail": "https://i.imgur.com/xLUCD0h.png"
+  },
+  {
+    "new": true,
+    "title": "动物园",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/动物园.ttf",
+    "size": "15.2 MB",
+    "thumbnail": "https://i.imgur.com/0pRmpYM.png"
+  },
+  {
+    "new": true,
+    "title": "叶根友非主流手",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/叶根友非主流手.ttf",
+    "size": "8.88 MB",
+    "thumbnail": "https://i.imgur.com/6kShVhg.png"
+  },
+  {
+    "new": true,
+    "title": "华文中宋",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华文中宋.ttf",
+    "size": "13.4 MB",
+    "thumbnail": "https://i.imgur.com/we11ucf.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの爱美丽",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの爱美丽.ttf",
+    "size": "15.1 MB",
+    "thumbnail": "https://i.imgur.com/Rkal3TU.png"
+  },
+  {
+    "new": true,
+    "title": "Pipiti",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/Pipiti.ttf",
+    "size": "11.3 MB",
+    "thumbnail": "https://i.imgur.com/3zCbtLM.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの超级玛丽",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの超级玛丽.ttf",
     "size": "16.1 MB",
-    "thumbnail":"https://i.imgur.com/CgTqI9z.png"
+    "thumbnail": "https://i.imgur.com/zOu5b5G.png"
   },
   {
-    "title": "阿沫幸福四叶草",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HappyClover.ttf",
-    "size": "8.82 MB",
-    "thumbnail":"https://i.imgur.com/J5M4m9u.png"
+    "new": true,
+    "title": "冰激凌",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/冰激凌.ttf",
+    "size": "15.3 MB",
+    "thumbnail": "https://i.imgur.com/BexUShT.png"
+  },
+  {
+    "new": true,
+    "title": "云朵行书",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/云朵行书.ttf",
+    "size": "7.03 MB",
+    "thumbnail": "https://i.imgur.com/TPWPUAU.png"
+  },
+  {
+    "new": true,
+    "title": "卡哇伊手写体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/卡哇伊手写体.ttf",
+    "size": "12.7 MB",
+    "thumbnail": "https://i.imgur.com/8cdSsG7.png"
+  },
+  {
+    "new": true,
+    "title": "函桐体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/函桐体.ttf",
+    "size": "11.1 MB",
+    "thumbnail": "https://i.imgur.com/CSZr16S.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの元童",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの元童.ttf",
+    "size": "21.1 MB",
+    "thumbnail": "https://i.imgur.com/xk4sRSB.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの美康",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの美康.ttf",
+    "size": "21.9 MB",
+    "thumbnail": "https://i.imgur.com/43vSD7n.png"
+  },
+  {
+    "new": true,
+    "title": "华康华综",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康华综.ttf",
+    "size": "11.4 MB",
+    "thumbnail": "https://i.imgur.com/qey99ds.png"
+  },
+  {
+    "new": true,
+    "title": "Wqymicrohei",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/Wqymicrohei.ttf",
+    "size": "4.23 MB",
+    "thumbnail": "https://i.imgur.com/0NCLIjN.png"
+  },
+  {
+    "new": true,
+    "title": "华康娃娃体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康娃娃体.ttf",
+    "size": "10.5 MB",
+    "thumbnail": "https://i.imgur.com/PXgxr0r.png"
+  },
+  {
+    "new": true,
+    "title": "叶根友特隶简体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/叶根友特隶简体.ttf",
+    "size": "8.36 MB",
+    "thumbnail": "https://i.imgur.com/vVkLckb.png"
+  },
+  {
+    "new": true,
+    "title": "创意麦田",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/创意麦田.ttf",
+    "size": "20.7 MB",
+    "thumbnail": "https://i.imgur.com/a66AzUZ.png"
+  },
+  {
+    "new": true,
+    "title": "PP体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/PP体.ttf",
+    "size": "14.5 MB",
+    "thumbnail": "https://i.imgur.com/7qMC9w9.png"
+  },
+  {
+    "new": true,
+    "title": "华康少女繁体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康少女繁体.ttf",
+    "size": "15.1 MB",
+    "thumbnail": "https://i.imgur.com/pnPGflI.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの汉枝",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの汉枝.ttf",
+    "size": "13.0 MB",
+    "thumbnail": "https://i.imgur.com/wV3dN6P.png"
+  },
+  {
+    "new": true,
+    "title": "华文行楷",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华文行楷.ttf",
+    "size": "3.81 MB",
+    "thumbnail": "https://i.imgur.com/UwecTtX.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの泡泡",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの泡泡.ttf",
+    "size": "16.4 MB",
+    "thumbnail": "https://i.imgur.com/pd6rkzO.png"
+  },
+  {
+    "new": true,
+    "title": "HOPEの雅宋",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/HOPEの雅宋.ttf",
+    "size": "14.1 MB",
+    "thumbnail": "https://i.imgur.com/kkHH5cU.png"
+  },
+  {
+    "new": true,
+    "title": "兔兔云彩花俏",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/兔兔云彩花俏.ttf",
+    "size": "10.7 MB",
+    "thumbnail": "https://i.imgur.com/37xKG50.png"
+  },
+  {
+    "new": true,
+    "title": "卷卷桃心",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/卷卷桃心.ttf",
+    "size": "11.5 MB",
+    "thumbnail": "https://i.imgur.com/DrgFmoh.png"
+  },
+  {
+    "new": true,
+    "title": "华康翩翩体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康翩翩体.ttf",
+    "size": "23.9 MB",
+    "thumbnail": "https://i.imgur.com/nq1xRRC.png"
+  },
+  {
+    "new": true,
+    "title": "刘书锋太极体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/刘书锋太极体.ttf",
+    "size": "9.98 MB",
+    "thumbnail": "https://i.imgur.com/ynVVMwd.png"
+  },
+  {
+    "new": true,
+    "title": "五星带字飞",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/五星带字飞.ttf",
+    "size": "10.0 MB",
+    "thumbnail": "https://i.imgur.com/ASG4mPW.png"
+  },
+  {
+    "new": true,
+    "title": "华康手札体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康手札体.ttf",
+    "size": "25.4 MB",
+    "thumbnail": "https://i.imgur.com/tKCSYUT.png"
+  },
+  {
+    "new": true,
+    "title": "华康布丁体",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Chinese/华康布丁体.ttf",
+    "size": "3.77 MB",
+    "thumbnail": "https://i.imgur.com/VSyWXEM.png"
   }
 ]
