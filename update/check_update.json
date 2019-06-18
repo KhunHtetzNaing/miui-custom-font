@@ -1,8 +1,8 @@
 {
   "version": "1.6",
   "title": "IMPORTANT!",
-  "message": "This app very out of date and i not working on this app.\nNow i working on new app named zFont.\ni will support zFont, so please use zFont.\nIt is very stable and very cool :)",
-  "download": "https://github.com/KhunHtetzNaing/zFont/releases/download/apk/zFont.apk",
-  "playstore": "com.mgngoe.zfont",
-  "uninstall": true
+  "message": "Please update to new version 1.6",
+  "download": "https://github.com/KhunHtetzNaing/miui-custom-font/releases/download/App/miCustomFontInstaller_1.6.apk",
+  "playstore": "com.pky.mifontinstaller",
+  "uninstall": false
 }
