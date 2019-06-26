@@ -1,6 +1,356 @@
 [
   {
     "new": true,
+    "title": "JosefinSans",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JosefinSans.ttf",
+    "size": "36 KB",
+    "thumbnail": "https://i.imgur.com/PhkWvTA.png"
+  },
+  {
+    "new": true,
+    "title": "KittySweety",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KittySweety.ttf",
+    "size": "43 KB",
+    "thumbnail": "https://i.imgur.com/rVvY74c.png"
+  },
+  {
+    "new": true,
+    "title": "JandaSillyMonkey",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JandaSillyMonkey.ttf",
+    "size": "135 KB",
+    "thumbnail": "https://i.imgur.com/Jqh1EDZ.png"
+  },
+  {
+    "new": true,
+    "title": "KGWaystoSayGoodbye",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGWaystoSayGoodbye.ttf",
+    "size": "129 KB",
+    "thumbnail": "https://i.imgur.com/PN4HJ2H.png"
+  },
+  {
+    "new": true,
+    "title": "KGLoveSomebody",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGLoveSomebody.ttf",
+    "size": "112 KB",
+    "thumbnail": "https://i.imgur.com/ofIfrx6.png"
+  },
+  {
+    "new": true,
+    "title": "IsabelleLayne",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/IsabelleLayne.ttf",
+    "size": "123 KB",
+    "thumbnail": "https://i.imgur.com/JdMgDI4.png"
+  },
+  {
+    "new": true,
+    "title": "KGOnlyHope",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGOnlyHope.ttf",
+    "size": "165 KB",
+    "thumbnail": "https://i.imgur.com/jixtPIq.png"
+  },
+  {
+    "new": true,
+    "title": "KGHowManyTimes",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGHowManyTimes.ttf",
+    "size": "119 KB",
+    "thumbnail": "https://i.imgur.com/1wZ2k9y.png"
+  },
+  {
+    "new": true,
+    "title": "KGBeStillAndKnow",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGBeStillAndKnow.ttf",
+    "size": "145 KB",
+    "thumbnail": "https://i.imgur.com/m4PFWI2.png"
+  },
+  {
+    "new": true,
+    "title": "KGSevenSixteen",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGSevenSixteen.ttf",
+    "size": "120 KB",
+    "thumbnail": "https://i.imgur.com/G8r9S0G.png"
+  },
+  {
+    "new": true,
+    "title": "JustForGiggles",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JustForGiggles.ttf",
+    "size": "143 KB",
+    "thumbnail": "https://i.imgur.com/EGBt0Ca.png"
+  },
+  {
+    "new": true,
+    "title": "JosefinSlab",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JosefinSlab.ttf",
+    "size": "192 KB",
+    "thumbnail": "https://i.imgur.com/mPN0Syl.png"
+  },
+  {
+    "new": true,
+    "title": "HappyMonkey",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/HappyMonkey.ttf",
+    "size": "154 KB",
+    "thumbnail": "https://i.imgur.com/bOG5Klc.png"
+  },
+  {
+    "new": true,
+    "title": "Journal",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Journal.ttf",
+    "size": "212 KB",
+    "thumbnail": "https://i.imgur.com/YgRJwJz.png"
+  },
+  {
+    "new": true,
+    "title": "KaushanScript",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KaushanScript.ttf",
+    "size": "168 KB",
+    "thumbnail": "https://i.imgur.com/lRMHSqa.png"
+  },
+  {
+    "new": true,
+    "title": "KingCoolKC",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KingCoolKC.ttf",
+    "size": "119 KB",
+    "thumbnail": "https://i.imgur.com/nCdDAHH.png"
+  },
+  {
+    "new": true,
+    "title": "KGNexttoMe",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGNexttoMe.ttf",
+    "size": "177 KB",
+    "thumbnail": "https://i.imgur.com/1uE8K2o.png"
+  },
+  {
+    "new": true,
+    "title": "HandelGothic",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/HandelGothic.ttf",
+    "size": "138 KB",
+    "thumbnail": "https://i.imgur.com/C0mlxVh.png"
+  },
+  {
+    "new": true,
+    "title": "JandaCloserToFree",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JandaCloserToFree.ttf",
+    "size": "135 KB",
+    "thumbnail": "https://i.imgur.com/xTEccNu.png"
+  },
+  {
+    "new": true,
+    "title": "JandaManatee",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JandaManatee.ttf",
+    "size": "108 KB",
+    "thumbnail": "https://i.imgur.com/nKbt0aK.png"
+  },
+  {
+    "new": true,
+    "title": "KGPartofMe",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGPartofMe.ttf",
+    "size": "127 KB",
+    "thumbnail": "https://i.imgur.com/Q7WOJn3.png"
+  },
+  {
+    "new": true,
+    "title": "Harrington",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Harrington.ttf",
+    "size": "22 KB",
+    "thumbnail": "https://i.imgur.com/MPvv6j0.png"
+  },
+  {
+    "new": true,
+    "title": "Kenzie",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Kenzie.ttf",
+    "size": "121 KB",
+    "thumbnail": "https://i.imgur.com/bfurceu.png"
+  },
+  {
+    "new": true,
+    "title": "GloriaHallelujah",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/GloriaHallelujah.ttf",
+    "size": "128 KB",
+    "thumbnail": "https://i.imgur.com/7URPKJl.png"
+  },
+  {
+    "new": true,
+    "title": "KGRayofSunshine",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGRayofSunshine.ttf",
+    "size": "125 KB",
+    "thumbnail": "https://i.imgur.com/mpy6YFg.png"
+  },
+  {
+    "new": true,
+    "title": "KGBeginAgain",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGBeginAgain.ttf",
+    "size": "124 KB",
+    "thumbnail": "https://i.imgur.com/vUumyQS.png"
+  },
+  {
+    "new": true,
+    "title": "KGGirlOnFire",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGGirlOnFire.ttf",
+    "size": "115 KB",
+    "thumbnail": "https://i.imgur.com/jPyCkO5.png"
+  },
+  {
+    "new": true,
+    "title": "JustTheWayYouAre",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JustTheWayYouAre.ttf",
+    "size": "106 KB",
+    "thumbnail": "https://i.imgur.com/d1516bV.png"
+  },
+  {
+    "new": true,
+    "title": "GoodDog",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/GoodDog.ttf",
+    "size": "111 KB",
+    "thumbnail": "https://i.imgur.com/ZSS2SAs.png"
+  },
+  {
+    "new": true,
+    "title": "Kellilynn",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Kellilynn.ttf",
+    "size": "116 KB",
+    "thumbnail": "https://i.imgur.com/lOabA9A.png"
+  },
+  {
+    "new": true,
+    "title": "KGIWantCrazy",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGIWantCrazy.ttf",
+    "size": "128 KB",
+    "thumbnail": "https://i.imgur.com/LdIBoxn.png"
+  },
+  {
+    "new": true,
+    "title": "JandaEverydayCasual",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JandaEverydayCasual.ttf",
+    "size": "109 KB",
+    "thumbnail": "https://i.imgur.com/qdjWVwg.png"
+  },
+  {
+    "new": true,
+    "title": "JandaSiestaSunset",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JandaSiestaSunset.ttf",
+    "size": "127 KB",
+    "thumbnail": "https://i.imgur.com/E2FLRj4.png"
+  },
+  {
+    "new": true,
+    "title": "Kremlin",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Kremlin.ttf",
+    "size": "118 KB",
+    "thumbnail": "https://i.imgur.com/QJ2D6jg.png"
+  },
+  {
+    "new": true,
+    "title": "KGStrawberryLimeade",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGStrawberryLimeade.ttf",
+    "size": "132 KB",
+    "thumbnail": "https://i.imgur.com/IQfM5EU.png"
+  },
+  {
+    "new": true,
+    "title": "JessicaElaine",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JessicaElaine.ttf",
+    "size": "126 KB",
+    "thumbnail": "https://i.imgur.com/VxQ1oAx.png"
+  },
+  {
+    "new": true,
+    "title": "KGFaithHopeAndLove",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGFaithHopeAndLove.ttf",
+    "size": "110 KB",
+    "thumbnail": "https://i.imgur.com/vMfposG.png"
+  },
+  {
+    "new": true,
+    "title": "GeorgiaBelle",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/GeorgiaBelle.ttf",
+    "size": "125 KB",
+    "thumbnail": "https://i.imgur.com/mCo6tm5.png"
+  },
+  {
+    "new": true,
+    "title": "KGLoveYouThroughIt2",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGLoveYouThroughIt2.ttf",
+    "size": "107 KB",
+    "thumbnail": "https://i.imgur.com/2rczPlY.png"
+  },
+  {
+    "new": true,
+    "title": "KGTrueColors",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGTrueColors.ttf",
+    "size": "143 KB",
+    "thumbnail": "https://i.imgur.com/gVJNNgk.png"
+  },
+  {
+    "new": true,
+    "title": "KGSkinnyLatte",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGSkinnyLatte.ttf",
+    "size": "101 KB",
+    "thumbnail": "https://i.imgur.com/2bfO5WH.png"
+  },
+  {
+    "new": true,
+    "title": "KGTenThousandReasons",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGTenThousandReasons.ttf",
+    "size": "267 KB",
+    "thumbnail": "https://i.imgur.com/wl69SyF.png"
+  },
+  {
+    "new": true,
+    "title": "KGFeeling22",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGFeeling22.ttf",
+    "size": "115 KB",
+    "thumbnail": "https://i.imgur.com/utboSYv.png"
+  },
+  {
+    "new": true,
+    "title": "JustOldFashion",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/JustOldFashion.ttf",
+    "size": "154 KB",
+    "thumbnail": "https://i.imgur.com/aiLyCwr.png"
+  },
+  {
+    "new": true,
+    "title": "KGLikeASkyscraper",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGLikeASkyscraper.ttf",
+    "size": "33 KB",
+    "thumbnail": "https://i.imgur.com/be2kOxR.png"
+  },
+  {
+    "new": true,
+    "title": "Kantarawaddy",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Kantarawaddy.ttf",
+    "size": "138 KB",
+    "thumbnail": "https://i.imgur.com/H5P4G8T.png"
+  },
+  {
+    "new": true,
+    "title": "KGLoveYouThroughIt",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGLoveYouThroughIt.ttf",
+    "size": "105 KB",
+    "thumbnail": "https://i.imgur.com/4n3uhPL.png"
+  },
+  {
+    "new": true,
+    "title": "KGShadowoftheDay",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGShadowoftheDay.ttf",
+    "size": "101 KB",
+    "thumbnail": "https://i.imgur.com/nfo5Wpi.png"
+  },
+  {
+    "new": true,
+    "title": "KGLegoHouse",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/KGLegoHouse.ttf",
+    "size": "135 KB",
+    "thumbnail": "https://i.imgur.com/hVKIrg0.png"
+  },
+  {
+    "new": true,
+    "title": "GermaniaOne",
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/GermaniaOne.ttf",
+    "size": "113 KB",
+    "thumbnail": "https://i.imgur.com/pXr6ZpS.png"
+  },
+  {
+    "new": true,
     "title": "Celtic",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Celtic.ttf",
     "size": "123 KB",
