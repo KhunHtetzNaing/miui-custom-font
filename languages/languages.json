@@ -8,8 +8,16 @@
     "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/english.json"
   },
   {
+    "title": "Chakma",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/chakma.json"
+  },
+  {
     "title": "Chinese 🔥NEW",
     "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/chinese.json"
+  },
+  {
+    "title": "Khmer 🔥NEW",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/khmer.json"
   },
   {
     "title": "Myanmar (Burmese)",
@@ -18,6 +26,10 @@
   {
     "title": "PaOh",
     "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/paoh.json"
+  },
+  {
+    "title": "Russian",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/russian.json"
   },
   {
     "title": "Shan",
@@ -30,13 +42,5 @@
   {
     "title": "Vietnamese",
     "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/vietnamese.json"
-  },
-  {
-    "title": "Chakma",
-    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/chakma.json"
-  },
-  {
-    "title": "Khmer 🔥NEW",
-    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/khmer.json"
   }
 ]
