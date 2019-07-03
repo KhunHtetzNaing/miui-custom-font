@@ -1,0 +1,352 @@
+[
+    {
+      "title": "Lao_Xokdee",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Xokdee.ttf",
+      "new": true,
+      "size": "77 KB",
+      "thumbnail": "https://i.imgur.com/V2cO9R7.png"
+    },
+    {
+      "title": "Lao_Sengthong",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Sengthong.ttf",
+      "new": true,
+      "size": "115 KB",
+      "thumbnail": "https://i.imgur.com/01wrApm.png"
+    },
+    {
+      "title": "Lao_Luangpouchan",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Luangpouchan.ttf",
+      "new": true,
+      "size": "89 KB",
+      "thumbnail": "https://i.imgur.com/3IsHvi0.png"
+    },
+    {
+      "title": "LaodroidgRegular",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/LaodroidgRegular.ttf",
+      "new": true,
+      "size": "294 KB",
+      "thumbnail": "https://i.imgur.com/P2BePOk.png"
+    },
+    {
+      "title": "Lao_Typing4",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Typing4.ttf",
+      "new": true,
+      "size": "169 KB",
+      "thumbnail": "https://i.imgur.com/E1WqwER.png"
+    },
+    {
+      "title": "Vichitdhammaram",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Vichitdhammaram.ttf",
+      "new": true,
+      "size": "129 KB",
+      "thumbnail": "https://i.imgur.com/JmY4hdv.png"
+    },
+    {
+      "title": "Lao_OldtypingII",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_OldtypingII.ttf",
+      "new": true,
+      "size": "163 KB",
+      "thumbnail": "https://i.imgur.com/kwTOGeP.png"
+    },
+    {
+      "title": "Lao_Khunlor",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Khunlor.ttf",
+      "new": true,
+      "size": "98 KB",
+      "thumbnail": "https://i.imgur.com/PiCGVNQ.png"
+    },
+    {
+      "title": "Simrattana_Normal",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Simrattana_Normal.ttf",
+      "new": true,
+      "size": "112 KB",
+      "thumbnail": "https://i.imgur.com/reD7Trf.png"
+    },
+    {
+      "title": "Lao_Sangsinxay2",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Sangsinxay2.ttf",
+      "new": true,
+      "size": "108 KB",
+      "thumbnail": "https://i.imgur.com/Ewb7zcX.png"
+    },
+    {
+      "title": "Lao_Pakse",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Pakse.ttf",
+      "new": true,
+      "size": "103 KB",
+      "thumbnail": "https://i.imgur.com/1g7Dpas.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Manikhot2",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Manikhot2.ttf",
+      "size": "126 KB",
+      "thumbnail": "https://i.imgur.com/TSwib2y.png"
+    },
+    {
+      "new": true,
+      "title": "N-Donkhamao4",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/N-Donkhamao4.ttf",
+      "size": "111 KB",
+      "thumbnail": "https://i.imgur.com/NEHdbvN.png"
+    },
+    {
+      "new": true,
+      "title": "LaodroidgFallBack",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/LaodroidgFallBack.ttf",
+      "size": "291 KB",
+      "thumbnail": "https://i.imgur.com/DNlVcdo.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Siengphin",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Siengphin.ttf",
+      "size": "105 KB",
+      "thumbnail": "https://i.imgur.com/UyjrNZt.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Sourigna",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Sourigna.ttf",
+      "size": "87 KB",
+      "thumbnail": "https://i.imgur.com/bVMNZna.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Thongkham3",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Thongkham3.ttf",
+      "size": "106 KB",
+      "thumbnail": "https://i.imgur.com/LVVdzCg.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Thongkham1",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Thongkham1.ttf",
+      "size": "76 KB",
+      "thumbnail": "https://i.imgur.com/g7cX2KE.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Paen2",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Paen2.ttf",
+      "size": "149 KB",
+      "thumbnail": "https://i.imgur.com/h3fmFAD.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Patuxai",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Patuxai.ttf",
+      "size": "71 KB",
+      "thumbnail": "https://i.imgur.com/3X81Jev.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Nakkham_II",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Nakkham_II.ttf",
+      "size": "134 KB",
+      "thumbnail": "https://i.imgur.com/i51EJiM.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Manikhot",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Manikhot.ttf",
+      "size": "89 KB",
+      "thumbnail": "https://i.imgur.com/feedyP0.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Lailao",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Lailao.ttf",
+      "size": "128 KB",
+      "thumbnail": "https://i.imgur.com/pbVRE6v.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Manikhot3",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Manikhot3.ttf",
+      "size": "125 KB",
+      "thumbnail": "https://i.imgur.com/egD6i3q.png"
+    },
+    {
+      "new": true,
+      "title": "N-Donkhamao8",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/N-Donkhamao8.ttf",
+      "size": "115 KB",
+      "thumbnail": "https://i.imgur.com/AxXkjeT.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Neramid2",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Neramid2.ttf",
+      "size": "130 KB",
+      "thumbnail": "https://i.imgur.com/826sgMz.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Mekong",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Mekong.ttf",
+      "size": "114 KB",
+      "thumbnail": "https://i.imgur.com/DeCsS0V.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Sivilay",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Sivilay.ttf",
+      "size": "75 KB",
+      "thumbnail": "https://i.imgur.com/yeJHkVG.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Sengthien",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Sengthien.ttf",
+      "size": "83 KB",
+      "thumbnail": "https://i.imgur.com/HyaY54F.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Neramid",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Neramid.ttf",
+      "size": "108 KB",
+      "thumbnail": "https://i.imgur.com/xTA2saz.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Muanglao",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Muanglao.ttf",
+      "size": "80 KB",
+      "thumbnail": "https://i.imgur.com/qXt9LWu.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Thodsakan",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Thodsakan.ttf",
+      "size": "108 KB",
+      "thumbnail": "https://i.imgur.com/FSTNzos.png"
+    },
+    {
+      "new": true,
+      "title": "Laodroidg",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Laodroidg.ttf",
+      "size": "291 KB",
+      "thumbnail": "https://i.imgur.com/h544C7g.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Vongdeuan",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Vongdeuan.ttf",
+      "size": "70 KB",
+      "thumbnail": "https://i.imgur.com/L8MpJur.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Phagnum_new",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Phagnum_new.ttf",
+      "size": "78 KB",
+      "thumbnail": "https://i.imgur.com/uIvDb1f.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Pali_Oldversion",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Pali_Oldversion.ttf",
+      "size": "72 KB",
+      "thumbnail": "https://i.imgur.com/3kgyPGp.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Paen1",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Paen1.ttf",
+      "size": "86 KB",
+      "thumbnail": "https://i.imgur.com/UMgRLVc.png"
+    },
+    {
+      "new": true,
+      "title": "Simrattana_Italic",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Simrattana_Italic.ttf",
+      "size": "112 KB",
+      "thumbnail": "https://i.imgur.com/QWEWTyV.png"
+    },
+    {
+      "new": true,
+      "title": "LaodroidgMono",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/LaodroidgMono.ttf",
+      "size": "289 KB",
+      "thumbnail": "https://i.imgur.com/l0zCsrv.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Rajabanditsabha2",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Rajabanditsabha2.ttf",
+      "size": "119 KB",
+      "thumbnail": "https://i.imgur.com/H97DnZA.png"
+    },
+    {
+      "new": true,
+      "title": "Laodroidg_thai",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Laodroidg_thai.ttf",
+      "size": "291 KB",
+      "thumbnail": "https://i.imgur.com/uRVv9PA.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_OldPrinting",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_OldPrinting.ttf",
+      "size": "154 KB",
+      "thumbnail": "https://i.imgur.com/GvoQevG.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_ThongkhamII",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_ThongkhamII.ttf",
+      "size": "78 KB",
+      "thumbnail": "https://i.imgur.com/HYHahNp.png"
+    },
+    {
+      "new": true,
+      "title": "LaodroidgBold",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/LaodroidgBold.ttf",
+      "size": "289 KB",
+      "thumbnail": "https://i.imgur.com/ZgBpjvq.png"
+    },
+    {
+      "new": true,
+      "title": "LaodroidgThai",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/LaodroidgThai.ttf",
+      "size": "291 KB",
+      "thumbnail": "https://i.imgur.com/LU8qpYI.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Thepthida",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Thepthida.ttf",
+      "size": "103 KB",
+      "thumbnail": "https://i.imgur.com/QIAb4yR.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Typing",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Typing.ttf",
+      "size": "108 KB",
+      "thumbnail": "https://i.imgur.com/opKVlTH.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Stencil",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Stencil.ttf",
+      "size": "62 KB",
+      "thumbnail": "https://i.imgur.com/qvDF58O.png"
+    },
+    {
+      "new": true,
+      "title": "Lao_Phagnum2",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/Lao_Phagnum2.ttf",
+      "size": "117 KB",
+      "thumbnail": "https://i.imgur.com/UwZ4g37.png"
+    },
+    {
+      "new": true,
+      "title": "N-Donkhamao2",
+      "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Lao/N-Donkhamao2.ttf",
+      "size": "110 KB",
+      "thumbnail": "https://i.imgur.com/jl2KETv.png"
+    }
+  ]
