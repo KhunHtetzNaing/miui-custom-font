@@ -5,13 +5,15 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </head>
 <body>
-<div id="content"></div>
+<div id="content">
+  <p id="test"></p>
+</div>
 <script>
 $.ajax({ 
     type: 'GET', 
     url: 'data/cool.json', 
     success: function (data) { 
-      $('#content').append(data);
+      $('#test').append(data);
     }
 });
 
