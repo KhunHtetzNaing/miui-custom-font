@@ -24,8 +24,12 @@
     "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/lao.json"
   },
   {
-    "title": "Myanmar (Burmese)",
-    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/myanmar.json"
+    "title": "Myanmar (Unicode)",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/unicode.json"
+  },
+  {
+    "title": "Myanmar (Zawgyi)",
+    "url": "https://github.com/KhunHtetzNaing/miui-custom-font/raw/master/data/zawgyi.json"
   },
   {
     "title": "PaOh",
