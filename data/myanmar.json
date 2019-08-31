@@ -2,6 +2,14 @@
   {
     "unicode": true,
     "new": true,
+    "title": "Uni-Yang_v2.1",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/Uni-Yang_v2.1.ttf",
+    "size": "233 KB",
+    "thumbnail": "https://i.imgur.com/ivT7Er5.png"
+  },
+  {
+    "unicode": true,
+    "new": true,
     "title": "Asoka_Myanmar",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Asoka_Myanmar.ttf",
     "size": "291 KB",
@@ -684,4 +692,4 @@
     "size": "426 KB",
     "thumbnail": "https://i.imgur.com/5j2SY5x.png"
   }
-]
+]''
