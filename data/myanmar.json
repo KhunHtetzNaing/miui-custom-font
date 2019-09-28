@@ -2,6 +2,14 @@
   {
     "unicode": true,
     "new": true,
+    "title": "JojarPro",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/JojarPro.ttf",
+    "size": "200 KB",
+    "thumbnail": "https://i.imgur.com/aA8eyNl.png"
+  },
+  {
+    "unicode": true,
+    "new": true,
     "title": "Uni-Yang_v2.1",
     "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Uni-Yang_v2.1.ttf",
     "size": "233 KB",
@@ -692,4 +700,4 @@
     "size": "426 KB",
     "thumbnail": "https://i.imgur.com/5j2SY5x.png"
   }
-]''
+]
