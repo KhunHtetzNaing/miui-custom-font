@@ -477,13 +477,6 @@
     "unicode": true
   },
   {
-    "title": "NamTengWebPro",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamTengWebPro.ttf",
-    "size": "374 KB",
-    "thumbnail": "https://i.imgur.com/zA6fsZu.png",
-    "unicode": true
-  },
-  {
     "title": "MyanmarSansPro",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarSansPro.ttf",
     "size": "39 KB",
@@ -664,13 +657,6 @@
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Tharlon.ttf",
     "size": "344 KB",
     "thumbnail": "https://i.imgur.com/NqcOdLv.png"
-  },
-  {
-    "unicode": true,
-    "title": "NamkhonWebPro",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamkhonWebPro.ttf",
-    "size": "576 KB",
-    "thumbnail": "https://i.imgur.com/HfaKCct.png"
   },
   {
     "unicode": true,
