@@ -224,13 +224,6 @@
     "thumbnail": "https://i.imgur.com/cLH1NNY.png"
   },
   {
-    "title": "NamTeng_2017",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamTeng_2017.ttf",
-    "size": "533 KB",
-    "thumbnail": "https://i.imgur.com/N2k4w5D.png",
-    "unicode": true
-  },
-  {
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5_Bold.ttf",
     "unicode": true,
     "title": "Pyidaungsu-2.5_Bold",
