@@ -50,14 +50,6 @@
   {
     "unicode": true,
     "new": true,
-    "title": "KhamKaung",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/KhamKaung.ttf",
-    "size": "255 KB",
-    "thumbnail": "https://i.imgur.com/L4u0cpb.png"
-  },
-  {
-    "unicode": true,
-    "new": true,
     "title": "KhunPaOh-Bold",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/KhunPaOh-Bold.ttf",
     "size": "206 KB",
@@ -230,13 +222,6 @@
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Regular.ttf",
     "size": "185 KB",
     "thumbnail": "https://i.imgur.com/cLH1NNY.png"
-  },
-  {
-    "title": "NamTeng_2017",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamTeng_2017.ttf",
-    "size": "533 KB",
-    "thumbnail": "https://i.imgur.com/N2k4w5D.png",
-    "unicode": true
   },
   {
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5_Bold.ttf",
@@ -477,13 +462,6 @@
     "unicode": true
   },
   {
-    "title": "NamTengWebPro",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamTengWebPro.ttf",
-    "size": "374 KB",
-    "thumbnail": "https://i.imgur.com/zA6fsZu.png",
-    "unicode": true
-  },
-  {
     "title": "MyanmarSansPro",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarSansPro.ttf",
     "size": "39 KB",
@@ -664,13 +642,6 @@
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Tharlon.ttf",
     "size": "344 KB",
     "thumbnail": "https://i.imgur.com/NqcOdLv.png"
-  },
-  {
-    "unicode": true,
-    "title": "NamkhonWebPro",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/NamkhonWebPro.ttf",
-    "size": "576 KB",
-    "thumbnail": "https://i.imgur.com/HfaKCct.png"
   },
   {
     "unicode": true,
