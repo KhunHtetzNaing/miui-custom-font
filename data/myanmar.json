@@ -1,7 +1,79 @@
 [
   {
+    "title": "MyMyanmar",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/MyMyanmar.ttf",
     "unicode": true,
     "new": true,
+    "size": "96 KB",
+    "thumbnail": "https://i.imgur.com/B5OHb3o.png"
+  },
+  {
+    "title": "NanKhomeGrand",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/NanKhomeGrand.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "270 KB",
+    "thumbnail": "https://i.imgur.com/pMI8Ak7.png"
+  },
+  {
+    "title": "Pangram",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/Pangram.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "306 KB",
+    "thumbnail": "https://i.imgur.com/YFdVTAW.png"
+  },
+  {
+    "title": "PangramBig",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/PangramBig.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "334 KB",
+    "thumbnail": "https://i.imgur.com/llgWEvg.png"
+  },
+  {
+    "title": "ShanUnicode",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/ShanUnicode.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "451 KB",
+    "thumbnail": "https://i.imgur.com/mHRXaq7.png"
+  },
+  {
+    "title": "ThanLwin",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/ThanLwin.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "1.03 MB",
+    "thumbnail": "https://i.imgur.com/91Dh7ve.png"
+  },
+  {
+    "title": "UniHeart",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/UniHeart.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "262 KB",
+    "thumbnail": "https://i.imgur.com/GtfE1jZ.png"
+  },
+  {
+    "title": "WinInnwa_Uni",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/WinInnwa_Uni.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "394 KB",
+    "thumbnail": "https://i.imgur.com/0LXqkvc.png"
+  },
+  {
+    "title": "Yangon",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Myanmar/Yangon.ttf",
+    "unicode": true,
+    "new": true,
+    "size": "29 KB",
+    "thumbnail": "https://i.imgur.com/jnJDPXE.png"
+  },
+  {
+    "unicode": true,
+    "new": false,
     "title": "Uni_Yang_v2.5.3",
     "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/Uni_Yang_v2.5.3.ttf",
     "size": "208 KB",
@@ -9,7 +81,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "JojarPro",
     "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/JojarPro.ttf",
     "size": "200 KB",
@@ -17,7 +89,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "Asoka_Myanmar",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Asoka_Myanmar.ttf",
     "size": "291 KB",
@@ -25,7 +97,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "Hopone",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Hopone.ttf",
     "size": "592 KB",
@@ -33,7 +105,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "Hopone_Mod",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Hopone_Mod.ttf",
     "size": "741 KB",
@@ -41,7 +113,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "Hsi-Hseng",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Hsi-Hseng.ttf",
     "size": "1.52 MB",
@@ -49,7 +121,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "KhunPaOh-Bold",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/KhunPaOh-Bold.ttf",
     "size": "206 KB",
@@ -57,7 +129,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "KhunPaOh-Regular",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/KhunPaOh-Regular.ttf",
     "size": "207 KB",
@@ -65,7 +137,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MM_Bagan_v1",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MM_Bagan_v1.ttf",
     "size": "233 KB",
@@ -73,7 +145,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MM_Ethnic_v1",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MM_Ethnic_v1.ttf",
     "size": "211 KB",
@@ -81,7 +153,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MM_Grand_v1",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MM_Grand_v1.ttf",
     "size": "234 KB",
@@ -89,7 +161,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MM_Hopong_v1",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MM_Hopong_v1.ttf",
     "size": "195 KB",
@@ -97,7 +169,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MM_Katkuu",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MM_Katkuu.ttf",
     "size": "178 KB",
@@ -105,7 +177,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MM_Phetkon",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MM_Phetkon.ttf",
     "size": "200 KB",
@@ -113,7 +185,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MM_Sangam",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MM_Sangam.ttf",
     "size": "195 KB",
@@ -121,7 +193,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MUA_Office",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MUA_Office.ttf",
     "size": "236 KB",
@@ -129,7 +201,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MyanmarYein",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarYein.ttf",
     "size": "249 KB",
@@ -137,7 +209,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MyanmarChatu",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarChatu.ttf",
     "size": "92 KB",
@@ -145,7 +217,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MyanmarKhyay",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarKhyay.ttf",
     "size": "40 KB",
@@ -153,7 +225,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MyanmarPaOhOne",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarPaOhOne.ttf",
     "size": "334 KB",
@@ -161,7 +233,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MyanmarPaOhRosemary",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarPaOhRosemary.ttf",
     "size": "361 KB",
@@ -169,7 +241,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "MyanmarYein2",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarYein2.ttf",
     "size": "362 KB",
@@ -177,7 +249,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "Padauk",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Padauk.ttf",
     "size": "461 KB",
@@ -185,7 +257,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "PadaukBook",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/PadaukBook.ttf",
     "size": "465 KB",
@@ -193,7 +265,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "PadaukBookBold",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/PadaukBookBold.ttf",
     "size": "431 KB",
@@ -201,7 +273,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "PadaukGrandPro2.8",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/PadaukGrandPro2.8.ttf",
     "size": "1.52 MB",
@@ -209,7 +281,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "Pyidaungsu-2.5.3_Bold",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Bold.ttf",
     "size": "228 KB",
@@ -217,7 +289,7 @@
   },
   {
     "unicode": true,
-    "new": true,
+    "new": false,
     "title": "Pyidaungsu-2.5.3_Regular",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Regular.ttf",
     "size": "185 KB",
