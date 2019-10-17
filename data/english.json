@@ -1,818 +1,916 @@
 [
   {
+    "title": "Muli-ExtraLight",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-ExtraLight.ttf",
     "new": true,
+    "size": "85 KB",
+    "thumbnail": "https://i.imgur.com/6wx1Qre.png"
+  },
+  {
+    "title": "Muli-ExtraLightItalic",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-ExtraLightItalic.ttf",
+    "new": true,
+    "size": "87 KB",
+    "thumbnail": "https://i.imgur.com/c9oeWvn.png"
+  },
+  {
+    "title": "Muli-Light",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-Light.ttf",
+    "new": true,
+    "size": "87 KB",
+    "thumbnail": "https://i.imgur.com/GWnZkjd.png"
+  },
+  {
+    "title": "Muli-LightItalic",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-LightItalic.ttf",
+    "new": true,
+    "size": "88 KB",
+    "thumbnail": "https://i.imgur.com/Szt5DJk.png"
+  },
+  {
+    "title": "Muli-Regular",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-Regular.ttf",
+    "new": true,
+    "size": "88 KB",
+    "thumbnail": "https://i.imgur.com/OZWzGw5.png"
+  },
+  {
+    "title": "Muli-Italic",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-Italic.ttf",
+    "new": true,
+    "size": "90 KB",
+    "thumbnail": "https://i.imgur.com/Dco4W8f.png"
+  },
+  {
+    "title": "Muli-SemiBold",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-SemiBold.ttf",
+    "new": true,
+    "size": "87 KB",
+    "thumbnail": "https://i.imgur.com/nLOZMjQ.png"
+  },
+  {
+    "title": "Muli-SemiBoldItalic",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-SemiBoldItalic.ttf",
+    "new": true,
+    "size": "89 KB",
+    "thumbnail": "https://i.imgur.com/QH0lkHD.png"
+  },
+  {
+    "title": "Muli-Bold",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-Bold.ttf",
+    "new": true,
+    "size": "88 KB",
+    "thumbnail": "https://i.imgur.com/kWbCAge.png"
+  },
+  {
+    "new": true,
+    "title": "Muli-BoldItalic",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-BoldItalic.ttf",
+    "size": "90 KB",
+    "thumbnail": "https://i.imgur.com/hHjfb5Q.png"
+  },
+  {
+    "new": true,
+    "title": "Muli-ExtraBold",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-ExtraBold.ttf",
+    "size": "89 KB",
+    "thumbnail": "https://i.imgur.com/uvQ0kkx.png"
+  },
+  {
+    "new": true,
+    "title": "Muli-ExtraBoldItalic",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-ExtraBoldItalic.ttf",
+    "size": "90 KB",
+    "thumbnail": "https://i.imgur.com/QBR3siq.png"
+  },
+  {
+    "new": true,
+    "title": "Muli-Black",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-Black.ttf",
+    "size": "89 KB",
+    "thumbnail": "https://i.imgur.com/Xj0URY4.png"
+  },
+  {
+    "new": true,
+    "title": "Muli-BlackItalic",
+    "url": "https://raw.githack.com/KhunHtetzNaing/miui-custom-font/master/fonts/English/Muli/Muli-BlackItalic.ttf",
+    "size": "91 KB",
+    "thumbnail": "https://i.imgur.com/pjEMNIl.png"
+  },
+  {
+    "new": false,
     "title": "VanessaLovesYou",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/VanessaLovesYou.ttf",
     "size": "117 KB",
     "thumbnail": "https://i.imgur.com/0HecrEv.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Wednesday",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Wednesday.ttf",
     "size": "142 KB",
     "thumbnail": "https://i.imgur.com/gDC6yTH.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "VeggieBurger",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/VeggieBurger.ttf",
     "size": "35 KB",
     "thumbnail": "https://i.imgur.com/sPguf4v.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "VanessaMarie",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/VanessaMarie.ttf",
     "size": "117 KB",
     "thumbnail": "https://i.imgur.com/jTUUzec.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "YummyCupcakes",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/YummyCupcakes.ttf",
     "size": "130 KB",
     "thumbnail": "https://i.imgur.com/Luveb7y.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Vollkorn",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Vollkorn.ttf",
     "size": "120 KB",
     "thumbnail": "https://i.imgur.com/1F9Qeo5.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ZXXSans",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ZXXSans.ttf",
     "size": "100 KB",
     "thumbnail": "https://i.imgur.com/rcOLRYr.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Xiomara",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Xiomara.ttf",
     "size": "108 KB",
     "thumbnail": "https://i.imgur.com/HseNEqE.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "VanessasValentine",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/VanessasValentine.ttf",
     "size": "200 KB",
     "thumbnail": "https://i.imgur.com/ylS9Ox2.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "WhisperADream",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/WhisperADream.ttf",
     "size": "116 KB",
     "thumbnail": "https://i.imgur.com/ORPvx8C.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "YouMakeMeSmile",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/YouMakeMeSmile.ttf",
     "size": "133 KB",
     "thumbnail": "https://i.imgur.com/yFyyXJ0.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "VT323",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/VT323.ttf",
     "size": "180 KB",
     "thumbnail": "https://i.imgur.com/gfZIo0L.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ValerieHand",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ValerieHand.ttf",
     "size": "125 KB",
     "thumbnail": "https://i.imgur.com/1C3t5V2.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "WaltDisney",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/WaltDisney.ttf",
     "size": "143 KB",
     "thumbnail": "https://i.imgur.com/pKwJbso.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Vector110",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Vector110.ttf",
     "size": "737 KB",
     "thumbnail": "https://i.imgur.com/fWCk1iq.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Walkway",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Walkway.ttf",
     "size": "108 KB",
     "thumbnail": "https://i.imgur.com/XdVdMjS.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Zeyada",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Zeyada.ttf",
     "size": "134 KB",
     "thumbnail": "https://i.imgur.com/5Q16izu.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "RomanceFatalSerif",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/RomanceFatalSerif.ttf",
     "size": "28 KB",
     "thumbnail": "https://i.imgur.com/VlWbXWG.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ScrapoHolic",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ScrapoHolic.ttf",
     "size": "207 KB",
     "thumbnail": "https://i.imgur.com/UGI69wa.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Slopness",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Slopness.ttf",
     "size": "161 KB",
     "thumbnail": "https://i.imgur.com/SdQqQVy.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Quicksand",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Quicksand.ttf",
     "size": "121 KB",
     "thumbnail": "https://i.imgur.com/3cHrTC2.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Rodeo",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Rodeo.ttf",
     "size": "121 KB",
     "thumbnail": "https://i.imgur.com/ILVS9ua.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Stanberry",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Stanberry.ttf",
     "size": "127 KB",
     "thumbnail": "https://i.imgur.com/XIxY8QT.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "TVFriends",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/TVFriends.ttf",
     "size": "132 KB",
     "thumbnail": "https://i.imgur.com/OJVzb5T.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Tabitha",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Tabitha.ttf",
     "size": "129 KB",
     "thumbnail": "https://i.imgur.com/1F1mhVP.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SunshinePoppy",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SunshinePoppy.ttf",
     "size": "129 KB",
     "thumbnail": "https://i.imgur.com/1GbiXJL.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SnappyService",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SnappyService.ttf",
     "size": "42 KB",
     "thumbnail": "https://i.imgur.com/ep9f6qf.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ShortStack",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ShortStack.ttf",
     "size": "154 KB",
     "thumbnail": "https://i.imgur.com/s4NYn8N.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SpicyRice",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SpicyRice.ttf",
     "size": "138 KB",
     "thumbnail": "https://i.imgur.com/AdHX1g9.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ScrapItUp",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ScrapItUp.ttf",
     "size": "139 KB",
     "thumbnail": "https://i.imgur.com/9w6FILu.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Seriously",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Seriously.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/vnGzEKm.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SophmoreYear",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SophmoreYear.ttf",
     "size": "123 KB",
     "thumbnail": "https://i.imgur.com/FGgKXcF.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Ubuntu",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Ubuntu.ttf",
     "size": "183 KB",
     "thumbnail": "https://i.imgur.com/OeFoEkn.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SourceSansPro",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SourceSansPro.ttf",
     "size": "154 KB",
     "thumbnail": "https://i.imgur.com/PuXBG0O.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SentyBrush",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SentyBrush.ttf",
     "size": "146 KB",
     "thumbnail": "https://i.imgur.com/QP3X8kV.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Technical",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Technical.ttf",
     "size": "44 KB",
     "thumbnail": "https://i.imgur.com/jVtwTO0.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "TradeWinds",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/TradeWinds.ttf",
     "size": "171 KB",
     "thumbnail": "https://i.imgur.com/ZVvvhVj.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Tungsten",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Tungsten.ttf",
     "size": "106 KB",
     "thumbnail": "https://i.imgur.com/JtrE7Yj.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PurplePurse",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PurplePurse.ttf",
     "size": "135 KB",
     "thumbnail": "https://i.imgur.com/zSQNWPz.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Simplicity",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Simplicity.ttf",
     "size": "123 KB",
     "thumbnail": "https://i.imgur.com/twO7bjs.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "UrbanClass",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/UrbanClass.ttf",
     "size": "637 KB",
     "thumbnail": "https://i.imgur.com/YQercIy.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "TenMillionFireflies",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/TenMillionFireflies.ttf",
     "size": "125 KB",
     "thumbnail": "https://i.imgur.com/8kuB0Mc.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Sail",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Sail.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/Mp5Tow4.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ThrowMyHandsUpintheAir",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ThrowMyHandsUpintheAir.ttf",
     "size": "116 KB",
     "thumbnail": "https://i.imgur.com/TbTRCEC.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "TooTight",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/TooTight.ttf",
     "size": "115 KB",
     "thumbnail": "https://i.imgur.com/GIyRyuE.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Sixteen",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Sixteen.ttf",
     "size": "117 KB",
     "thumbnail": "https://i.imgur.com/TFO5Fwx.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ShadowsIntoLight",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ShadowsIntoLight.ttf",
     "size": "125 KB",
     "thumbnail": "https://i.imgur.com/7C8j9gM.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SonySketchEF",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SonySketchEF.ttf",
     "size": "179 KB",
     "thumbnail": "https://i.imgur.com/wN4QGS8.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Rosemary",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Rosemary.ttf",
     "size": "1.25 MB",
     "thumbnail": "https://i.imgur.com/OJwobPM.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SimpleKindOfGirl",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SimpleKindOfGirl.ttf",
     "size": "127 KB",
     "thumbnail": "https://i.imgur.com/88V1jcF.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "StRyde",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/StRyde.ttf",
     "size": "145 KB",
     "thumbnail": "https://i.imgur.com/if6kGdS.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Tweed",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Tweed.ttf",
     "size": "1.02 MB",
     "thumbnail": "https://i.imgur.com/oEwasjw.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Tork",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Tork.ttf",
     "size": "38 KB",
     "thumbnail": "https://i.imgur.com/HQbjQwW.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "TheUrbanWay",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/TheUrbanWay.ttf",
     "size": "128 KB",
     "thumbnail": "https://i.imgur.com/G8DYvHq.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SweetyCherry",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SweetyCherry.ttf",
     "size": "194 KB",
     "thumbnail": "https://i.imgur.com/U2RaD0i.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Taurus",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Taurus.ttf",
     "size": "113 KB",
     "thumbnail": "https://i.imgur.com/MK7gNcE.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Sweetness",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Sweetness.ttf",
     "size": "114 KB",
     "thumbnail": "https://i.imgur.com/OvmpoXW.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SetFireToTheRain",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SetFireToTheRain.ttf",
     "size": "109 KB",
     "thumbnail": "https://i.imgur.com/LDkXl26.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PuppyBellies",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PuppyBellies.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/M8laQV1.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Shojumaru",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Shojumaru.ttf",
     "size": "143 KB",
     "thumbnail": "https://i.imgur.com/rDrG2FC.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Raindrops",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Raindrops.ttf",
     "size": "158 KB",
     "thumbnail": "https://i.imgur.com/ffimx8A.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "StarryNight",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/StarryNight.ttf",
     "size": "137 KB",
     "thumbnail": "https://i.imgur.com/u4liwOz.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Saysettha",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Saysettha.ttf",
     "size": "177 KB",
     "thumbnail": "https://i.imgur.com/wEX3UAC.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Storopia",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Storopia.ttf",
     "size": "132 KB",
     "thumbnail": "https://i.imgur.com/6wFMl8u.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Rixlovefool",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Rixlovefool.ttf",
     "size": "26 KB",
     "thumbnail": "https://i.imgur.com/PE3PT2j.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "SmellTheRoses",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/SmellTheRoses.ttf",
     "size": "139 KB",
     "thumbnail": "https://i.imgur.com/2ePMVjf.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "RibbonOfhope",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/RibbonOfhope.ttf",
     "size": "134 KB",
     "thumbnail": "https://i.imgur.com/lDlv8ia.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Neucha",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Neucha.ttf",
     "size": "206 KB",
     "thumbnail": "https://i.imgur.com/kDeTKJQ.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Neon80s",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Neon80s.ttf",
     "size": "176 KB",
     "thumbnail": "https://i.imgur.com/neRL66L.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Life'sABeach",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Life'sABeach.ttf",
     "size": "128 KB",
     "thumbnail": "https://i.imgur.com/rQw1c5d.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Melonio",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Melonio.ttf",
     "size": "136 KB",
     "thumbnail": "https://i.imgur.com/CPqnEjK.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "ParryHotter",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/ParryHotter.ttf",
     "size": "178 KB",
     "thumbnail": "https://i.imgur.com/z8tpfTB.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PeaTwistMePretty",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PeaTwistMePretty.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/HQ6ODER.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PanicStricken",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PanicStricken.ttf",
     "size": "311 KB",
     "thumbnail": "https://i.imgur.com/zmvDSOY.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PeaBigAlFont",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PeaBigAlFont.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/xhqFb1w.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "MissSmartyPants",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/MissSmartyPants.ttf",
     "size": "138 KB",
     "thumbnail": "https://i.imgur.com/GxgoX6J.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Museo300",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Museo300.ttf",
     "size": "176 KB",
     "thumbnail": "https://i.imgur.com/j9JGmFS.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LifeSavers",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LifeSavers.ttf",
     "size": "237 KB",
     "thumbnail": "https://i.imgur.com/eVapEq4.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "MyFirstCrush",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/MyFirstCrush.ttf",
     "size": "132 KB",
     "thumbnail": "https://i.imgur.com/nldaoMt.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PeaMarley",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PeaMarley.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/nwkDybf.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Monoton",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Monoton.ttf",
     "size": "126 KB",
     "thumbnail": "https://i.imgur.com/IM1Fgrt.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "MaritimeTropicalNeue",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/MaritimeTropicalNeue.ttf",
     "size": "128 KB",
     "thumbnail": "https://i.imgur.com/0A9ECN7.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "NeverSayNever",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/NeverSayNever.ttf",
     "size": "28 KB",
     "thumbnail": "https://i.imgur.com/6rvXm5L.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "NemoyMedium",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/NemoyMedium.ttf",
     "size": "109 KB",
     "thumbnail": "https://i.imgur.com/vPMVdMX.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PassingNotes",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PassingNotes.ttf",
     "size": "132 KB",
     "thumbnail": "https://i.imgur.com/seSerOo.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "MySkinnyJeans",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/MySkinnyJeans.ttf",
     "size": "117 KB",
     "thumbnail": "https://i.imgur.com/c3X26Y4.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Polobrush",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Polobrush.ttf",
     "size": "45 KB",
     "thumbnail": "https://i.imgur.com/gD851kQ.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Lato",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Lato.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/pYeBYD1.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "MountainsofChristmas",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/MountainsofChristmas.ttf",
     "size": "242 KB",
     "thumbnail": "https://i.imgur.com/KTciB8D.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Noteworthy",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Noteworthy.ttf",
     "size": "82 KB",
     "thumbnail": "https://i.imgur.com/TiEQZg8.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PeaElle",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PeaElle.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/ck9bgf9.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Love",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Love.ttf",
     "size": "876 KB",
     "thumbnail": "https://i.imgur.com/t0LML6W.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "NickelodeonNF",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/NickelodeonNF.ttf",
     "size": "98 KB",
     "thumbnail": "https://i.imgur.com/lQ94y84.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Nosifer",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Nosifer.ttf",
     "size": "120 KB",
     "thumbnail": "https://i.imgur.com/Claf3fP.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LittleMissPriss",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LittleMissPriss.ttf",
     "size": "117 KB",
     "thumbnail": "https://i.imgur.com/IKGq2KO.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LoveMeForever",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LoveMeForever.ttf",
     "size": "117 KB",
     "thumbnail": "https://i.imgur.com/Zecg8NE.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LazyDay",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LazyDay.ttf",
     "size": "115 KB",
     "thumbnail": "https://i.imgur.com/vp6uY8o.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Pacifico",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Pacifico.ttf",
     "size": "165 KB",
     "thumbnail": "https://i.imgur.com/v5FA6M1.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Lollipop",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Lollipop.ttf",
     "size": "119 KB",
     "thumbnail": "https://i.imgur.com/GnxcYbC.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "OpenSans",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/OpenSans.ttf",
     "size": "208 KB",
     "thumbnail": "https://i.imgur.com/K3PKdo0.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Paprika",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Paprika.ttf",
     "size": "124 KB",
     "thumbnail": "https://i.imgur.com/u3FNCDj.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PhetsarathOT",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PhetsarathOT.ttf",
     "size": "181 KB",
     "thumbnail": "https://i.imgur.com/TWcILAZ.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PenelopeAnne",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PenelopeAnne.ttf",
     "size": "121 KB",
     "thumbnail": "https://i.imgur.com/LdmEKDi.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PeaKatrina",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PeaKatrina.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/BDla0kz.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LeoThinBold",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LeoThinBold.ttf",
     "size": "142 KB",
     "thumbnail": "https://i.imgur.com/ml0N6aJ.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "NymphsHandwriting",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/NymphsHandwriting.ttf",
     "size": "129 KB",
     "thumbnail": "https://i.imgur.com/yAT2X3J.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LTOksana",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LTOksana.ttf",
     "size": "58 KB",
     "thumbnail": "https://i.imgur.com/Di5JcZ0.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Lemon",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Lemon.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/IIiFk4u.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PeaSandraDee",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PeaSandraDee.ttf",
     "size": "123 KB",
     "thumbnail": "https://i.imgur.com/jLyVibu.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "NeutraDemiSC",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/NeutraDemiSC.ttf",
     "size": "171 KB",
     "thumbnail": "https://i.imgur.com/1l9WU6P.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "MeganHand",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/MeganHand.ttf",
     "size": "121 KB",
     "thumbnail": "https://i.imgur.com/dL6ohGP.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Museo500",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Museo500.ttf",
     "size": "175 KB",
     "thumbnail": "https://i.imgur.com/gXi21xU.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LondrinaSolid",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LondrinaSolid.ttf",
     "size": "135 KB",
     "thumbnail": "https://i.imgur.com/Xbht5Ov.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Museo700",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Museo700.ttf",
     "size": "174 KB",
     "thumbnail": "https://i.imgur.com/NibiTa3.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "LobsterTwo",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/LobsterTwo.ttf",
     "size": "243 KB",
     "thumbnail": "https://i.imgur.com/iEvFq1s.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "PeaColton",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/PeaColton.ttf",
     "size": "118 KB",
     "thumbnail": "https://i.imgur.com/TyqhBVP.png"
   },
   {
-    "new": true,
+    "new": false,
     "title": "Milonga",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/English/Milonga.ttf",
     "size": "271 KB",
