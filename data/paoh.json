@@ -1,21 +1,21 @@
 [
   {
     "title": "PaohDragonApp",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/PaohDragonApp.ttf",
+    "url": "https://glcdn.githack.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/Unicode/PaohDragonApp.ttf",
     "size": "87 KB",
     "thumbnail": "https://i.imgur.com/qhg8zDc.png",
     "unicode": true
   },
   {
     "title": "MyanmarPaOh",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/MyanmarPaOh.ttf",
+    "url": "https://glcdn.githack.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/Unicode/MyanmarPaOh.ttf",
     "size": "229 KB",
     "thumbnail": "https://i.imgur.com/XoENPPG.png",
     "unicode": true
   },
   {
     "title": "Cherry",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Cherry.ttf",
+    "url": "https://glcdn.githack.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/Unicode/Cherry.ttf",
     "size": "149 KB",
     "thumbnail": "https://i.imgur.com/urpzdgC.png",
     "unicode": true
@@ -23,7 +23,7 @@
   {
     "unicode": true,
     "title": "Myanmar3PaOh",
-    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Language/Myanmar/Unicode/Myanmar3PaOh.ttf",
+    "url": "https://glcdn.githack.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/Unicode/Myanmar3PaOh.ttf",
     "size": "99 KB",
     "thumbnail": "https://i.imgur.com/8HGC7Eb.png"
   }
