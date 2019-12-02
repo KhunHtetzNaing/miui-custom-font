@@ -1,7 +1,7 @@
 [
   {
     "title": "MyMyanmar",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/MyMyanmar.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/MyMyanmar.ttf",
     "unicode": true,
     "new": true,
     "size": "96 KB",
@@ -9,7 +9,7 @@
   },
   {
     "title": "NanKhomeGrand",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/NanKhomeGrand.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/NanKhomeGrand.ttf",
     "unicode": true,
     "new": true,
     "size": "270 KB",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Pangram",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/Pangram.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/Pangram.ttf",
     "unicode": true,
     "new": true,
     "size": "306 KB",
@@ -25,7 +25,7 @@
   },
   {
     "title": "PangramBig",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/PangramBig.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/PangramBig.ttf",
     "unicode": true,
     "new": true,
     "size": "334 KB",
@@ -33,7 +33,7 @@
   },
   {
     "title": "ShanUnicode",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/ShanUnicode.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/ShanUnicode.ttf",
     "unicode": true,
     "new": true,
     "size": "451 KB",
@@ -41,7 +41,7 @@
   },
   {
     "title": "ThanLwin",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/ThanLwin.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/ThanLwin.ttf",
     "unicode": true,
     "new": true,
     "size": "1.03 MB",
@@ -49,7 +49,7 @@
   },
   {
     "title": "UniHeart",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/UniHeart.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/UniHeart.ttf",
     "unicode": true,
     "new": true,
     "size": "262 KB",
@@ -57,7 +57,7 @@
   },
   {
     "title": "WinInnwa_Uni",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/WinInnwa_Uni.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/WinInnwa_Uni.ttf",
     "unicode": true,
     "new": true,
     "size": "394 KB",
@@ -65,7 +65,7 @@
   },
   {
     "title": "Yangon",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Myanmar/Yangon.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Myanmar/Yangon.ttf",
     "unicode": true,
     "new": true,
     "size": "29 KB",
@@ -75,7 +75,7 @@
     "unicode": true,
     "new": false,
     "title": "Uni_Yang_v2.5.3",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/Uni_Yang_v2.5.3.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Uni_Yang_v2.5.3.ttf",
     "size": "208 KB",
     "thumbnail": "https://i.imgur.com/3ki0xR9.png"
   },
@@ -83,7 +83,7 @@
     "unicode": true,
     "new": false,
     "title": "JojarPro",
-    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/Language/Language/Language/Language/JojarPro.ttf",
+    "url": "https://gitlab.com/KhunHtetzNaing/zfont/raw/master/Fonts/Language/JojarPro.ttf",
     "size": "200 KB",
     "thumbnail": "https://i.imgur.com/aA8eyNl.png"
   },
